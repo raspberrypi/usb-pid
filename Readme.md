@@ -19,3 +19,4 @@ Vendor-ID = 0x2E8A
 | 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/board/raspberry_pi_pico/) |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
+| 0x1000 | Reserved response 1 |||
