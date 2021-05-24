@@ -1,7 +1,7 @@
 # Raspberry Pi USB product ID list
 
 ## Allocation
-The USB-IF have given Raspberry Pi permission to sub-license the USB product ID values for it's vendor ID (0x2E8A) since they are to be used on a common silicon component which will be used within a customer's product (the RP2040 silicon).  For each of the allocations we (Raspberry Pi) will have to apply to the USB-IF to agree this use.  This document then contains the full list of product IDs we have approved.
+The USB-IF have given Raspberry Pi permission to sub-license the USB product ID values for its vendor ID (0x2E8A) since they are to be used on a common silicon component which will be used within a customer's product (the RP2040 silicon).  For each of the allocations we (Raspberry Pi) will have to apply to the USB-IF to agree this use.  This document then contains the full list of product IDs we have approved.
 
 ## Assignment
 
