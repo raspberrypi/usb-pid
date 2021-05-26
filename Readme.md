@@ -24,4 +24,5 @@ Vendor-ID = 0x2E8A
 | 0x1002 | Pimoroni | Pimoroni Pico Lipo (4MB) | https://shop.pimoroni.com/products/pimoroni-pico-lipo |
 | 0x1003 | Pimoroni | Pimoroni Pico Lipo (16MB) | https://shop.pimoroni.com/products/pimoroni-pico-lipo |
 | 0x1004 | Reserved 2 ||| 
+| 0x1005 | Reserved 3 ||| 
 
