@@ -19,10 +19,11 @@ Vendor-ID = 0x2E8A
 | 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/board/raspberry_pi_pico/) |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
-| 0x1000 | Reserved 1 |||
+| 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
 | 0x1001 | Pimoroni | Picade 2040 | http://pimoroni.com/picade2040 |
 | 0x1002 | Pimoroni | Pimoroni Pico Lipo (4MB) | https://shop.pimoroni.com/products/pimoroni-pico-lipo |
 | 0x1003 | Pimoroni | Pimoroni Pico Lipo (16MB) | https://shop.pimoroni.com/products/pimoroni-pico-lipo |
 | 0x1004 | Reserved 2 ||| 
 | 0x1005 | Reserved 3 ||| 
+| 0x1008 | Reserved 4 ||| 
 
