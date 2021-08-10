@@ -27,7 +27,7 @@ Vendor-ID = 0x2E8A
 | 0x1005 | Reserved 3 ||| 
 | 0x1006 | Invector Labs AB | Challenger 2040 | https://site.invector.se/produkt/challenger-2040/ |
 | 0x1008 | Pimoroni | Pimoroni PGA2040 | https://shop.pimoroni.com/products/pga2040 | 
-| 0x1009 | Pimeroni | Pimoroni Interstate 75 | https://pimoroni.com/i75 |
-| 0x100a | Pimeroni | Pimoroni Plasma 2040 | https://pimoroni.com/plasma2040 |
+| 0x1009 | Pimoroni | Pimoroni Interstate 75 | https://pimoroni.com/i75 |
+| 0x100a | Pimoroni | Pimoroni Plasma 2040 | https://pimoroni.com/plasma2040 |
 | 0x100b | Invector Labs AB | Challenger RP2040 LTE | https://ilabs.se/product/challenger-rp2040-lte/ |
 
