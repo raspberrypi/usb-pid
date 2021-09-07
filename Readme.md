@@ -31,4 +31,5 @@ Vendor-ID = 0x2E8A
 | 0x100a | Pimoroni | Pimoroni Plasma 2040 | https://pimoroni.com/plasma2040 |
 | 0x100b | Invector Labs AB | Challenger RP2040 LTE | https://ilabs.se/product/challenger-rp2040-lte/ |
 | 0x100c | Tranquility IT Inc. | CNC Control Pendant | https://www.madewithcnc.com/products/hand-held-console-for-tormach-path-pilot-cnc-machines |
+| 0x100d | Invector Labs AB | v | https://ilabs.se/product/challenger-nb-rp2040-wifi/ |
 
