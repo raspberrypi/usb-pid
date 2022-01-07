@@ -39,4 +39,9 @@ Vendor-ID = 0x2E8A
 | 0x1014 | Adafruit Industries LLC | Raspberry Pi CM4 | https://circuitpython.org/board/raspberrypi_cm4 |
 | 0x1015 | Adafruit Industries LLC | Raspberry Pi Zero 2W | https://circuitpython.org/board/raspberrypi_zero2w |
 | 0x1016 | Pimoroni Ltd | Pimoroni Tiny 2040 (2MB) | https://pimoroni.com/tiny2040 |
+| 0x100E | Adafruit Industries LLC | Raspberry Pi Zero | https://circuitpython.org/board/raspberrypi_zero/ |
+| 0x101E | Adafruit Industries | Raspberry Pi Zero W | https://circuitpython.org/board/raspberrypi_zero_w/ |
+| 0x101F | Waveshare Electronics | RP2040-Zero | https://www.waveshare.com/rp2040-zero.htm |
+| 0x1020 | Waveshare Electronics | RP2040-Plus | https://www.waveshare.com/rp2040-plus.htm |
+| 0x1021 | Waveshare Electronics | RP2040-LCD-0.96 | https://www.waveshare.com/rp2040-lcd-0.96.htm |
 
