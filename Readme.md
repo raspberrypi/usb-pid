@@ -35,7 +35,7 @@ Vendor-ID = 0x2E8A
 | 0x100f | Cytron Technologies | Cytron Maker Nano RP2040 | https://www.cytron.io/p-maker-nano-rp2040 |
 | 0x1010 | Invector Labs AB | RPICO32 | |
 | 0x1012 | Adafruit Industries LLC | Raspberry Pi CM4 IO | https://circuitpython.org/board/raspberrypi_cm4io |
-| 0x1013 | Adafruit Industries LLC | Raspberry Pi 4 | https://circuitpython.org/board/raspberrypi_pi4 |
+| 0x1013 | Adafruit Industries LLC | Raspberry Pi 4 | https://circuitpython.org/board/raspberrypi_pi4b |
 | 0x1014 | Adafruit Industries LLC | Raspberry Pi CM4 | https://circuitpython.org/board/raspberrypi_cm4 |
 | 0x1015 | Adafruit Industries LLC | Raspberry Pi Zero 2W | https://circuitpython.org/board/raspberrypi_zero2w |
 | 0x1016 | Pimoroni Ltd | Pimoroni Tiny 2040 (2MB) | https://pimoroni.com/tiny2040 |
