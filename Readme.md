@@ -44,4 +44,6 @@ Vendor-ID = 0x2E8A
 | 0x101F | Waveshare Electronics | RP2040-Zero | https://www.waveshare.com/rp2040-zero.htm |
 | 0x1020 | Waveshare Electronics | RP2040-Plus | https://www.waveshare.com/rp2040-plus.htm |
 | 0x1021 | Waveshare Electronics | RP2040-LCD-0.96 | https://www.waveshare.com/rp2040-lcd-0.96.htm |
+| 0x1022 | Reserved | | |
+| 0x1023 | Invector Labs AB | Challenger RP2040 LoRa | https://ilabs.se/product/challenger-rp2040-lora/ |
 
