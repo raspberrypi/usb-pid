@@ -46,4 +46,4 @@ Vendor-ID = 0x2E8A
 | 0x1021 | Waveshare Electronics | RP2040-LCD-0.96 | https://www.waveshare.com/rp2040-lcd-0.96.htm |
 | 0x1022 | Reserved | | |
 | 0x1023 | Invector Labs AB | Challenger RP2040 LoRa | https://ilabs.se/product/challenger-rp2040-lora/ |
-
+| 0x1025 | Lone Dynamics Corporation | Müsli USB Pmod | https://machdyne.com/product/musli-usb-pmod/ |
