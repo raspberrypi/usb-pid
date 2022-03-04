@@ -5,7 +5,7 @@ The USB-IF have given Raspberry Pi permission to sub-license the USB product ID 
 
 ## Assignment
 
-To create an assignment, go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaAkcxVD5xSgf-vFdZe7URqDeUhAo9Vx-17YZgtpXpeTHpVQ/viewform?usp=sf_link) filling in the relevant information.  If you would like to reserve an allocation before making a new product public, select that option and email info@raspberrypi.org to request activation of the allocation when you are ready to go public (failure to do this will mean losing the allocation).
+To create an assignment, go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaAkcxVD5xSgf-vFdZe7URqDeUhAo9Vx-17YZgtpXpeTHpVQ/viewform?usp=sf_link) filling in the relevant information.  If you would like to reserve an allocation before making a new product public, select that option and email info@raspberrypi.com to request activation of the allocation when you are ready to go public (failure to do this will mean losing the allocation).
 
 Vendor-ID = 0x2E8A
 
