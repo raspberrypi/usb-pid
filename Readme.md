@@ -50,3 +50,4 @@ Vendor-ID = 0x2E8A
 | 0x1023 | Invector Labs AB | Challenger RP2040 LoRa | https://ilabs.se/product/challenger-rp2040-lora/ |
 | 0x1025 | Lone Dynamics Corporation | Müsli USB Pmod | https://machdyne.com/product/musli-usb-pmod/ |
 | 0x1026 | ELECFREAKS TECHNOLOGY | Pico:ed | https://www.elecfreaks.com/picoed.html |
+| 0x1027 | WIZnet Co., Ltd. | W5100S-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico |
