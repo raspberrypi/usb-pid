@@ -51,3 +51,5 @@ Vendor-ID = 0x2E8A
 | 0x1025 | Lone Dynamics Corporation | Müsli USB Pmod | https://machdyne.com/product/musli-usb-pmod/ |
 | 0x1026 | ELECFREAKS TECHNOLOGY | Pico:ed | https://www.elecfreaks.com/picoed.html |
 | 0x1027 | WIZnet Co., Ltd. | W5100S-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico |
+| 0x1028 | WIZnet Co., Ltd. | WizFi360-EVB-Pico | https://docs.wiznet.io/Product/Open-Source-Hardware/wizfi360-evb-pico |
+| 0x1029 | WIZnet Co., Ltd. | W5500-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico |
