@@ -54,3 +54,7 @@ Vendor-ID = 0x2E8A
 | 0x1027 | WIZnet Co., Ltd. | W5100S-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico |
 | 0x1028 | WIZnet Co., Ltd. | WizFi360-EVB-Pico | https://docs.wiznet.io/Product/Open-Source-Hardware/wizfi360-evb-pico |
 | 0x1029 | WIZnet Co., Ltd. | W5500-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico |
+| 0x102A | Input Integrity | Lossless Adapter | TBD (No website yet) |
+| 0x102B | Input Integrity | Slippi latency tester | TBD (No website yet) |
+| 0x102C | Invector Labs AB | Challenger RP2040 WiFi/BLE | https://ilabs.se/challenger-rp2040-wifi-ble-datasheet/ |
+| 0x102D | Invector Labs AB | Challenger RP2040 SD/RTC | https://ilabs.se/challenger-rp2040-sd-rtc-datasheet/ |
