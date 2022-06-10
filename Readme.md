@@ -60,3 +60,5 @@ Vendor-ID = 0x2E8A
 | 0x102D | Invector Labs AB | Challenger RP2040 SD/RTC | https://ilabs.se/challenger-rp2040-sd-rtc-datasheet/ |
 | 0x102E | Jinan  Yuandi Instrument Equlpment Co.,Ltd | YD-RP2040 | https://www.aliexpress.com/item/1005004004120604.html?spm=5261.ProductManageOnline.0.0.25234edfWXVdRg |
 | 0x102F | 20XX Corp | B0XX | https://b0xx.com |
+| 0x1030 | maxsol gmbh | RF-ID Reader | www.maxsol.de |
+| 0x1031 | maxsol gmbh | RF-ID Reader | www.maxsol.de |
