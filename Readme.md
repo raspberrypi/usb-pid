@@ -62,3 +62,5 @@ Vendor-ID = 0x2E8A
 | 0x102F | 20XX Corp | B0XX | https://b0xx.com |
 | 0x1030 | maxsol gmbh | RF-ID Reader | www.maxsol.de |
 | 0x1031 | maxsol gmbh | RF-ID Reader | www.maxsol.de |
+| 0x1032 | Invector Labs AB | Challenger RP2040 SubGHz | https://ilabs.se/challenger-rp2040-subghz-rfm69hcw-datasheet/ |
+| 0x1035 | LightWare Optoelectronics (Pty) Ltd | LightWare Lidar | https://lightwarelidar.com/collections/lidar-rangefinders |
