@@ -3,6 +3,25 @@
 ## Allocation
 The USB-IF have given Raspberry Pi permission to sub-license the USB product ID values for its vendor ID (0x2E8A) since they are to be used on a common silicon component which will be used within a customer's product (the RP2040 silicon).  For each of the allocations we (Raspberry Pi) will have to apply to the USB-IF to agree this use.  This document then contains the full list of product IDs we have approved.
 
+## Use of the IDs
+Before filling in the form, please think about why you would like a separate ProductID.  In general, the only reason to require one is because Windows uses the product ID to select a vendor-specific driver for a USB device.  If you are not using a vendor specific driver and instead using a standard interface driver, such as the CDC interface (for serial devices) or a HID driver (keyboards, mice and touchscreens among others).  Please put that information into the form and we can create a standard PID to cover devices with that particular interface combination.
+
+If you are using the standard VID/PID combination, you can still use the iManufacturer, iProduct and iSerial strings to determine and identify your particular device.  To see these on a Linux console just do 'lsusb -v' when your device is attached.
+
+This is a common way of identifying a particular interface device (For example, the ARM CMSIS-DAP specification includes the ability to have 'CMSIS-DAP' in the product name).  This can then be used inside a udev script to control the product, here's an example from the OpenOCD sources:
+
+```
+# CMSIS-DAP compatible adapters
+ATTRS{product}=="*CMSIS-DAP*", MODE="660", GROUP="plugdev", TAG+="uaccess"
+```
+
+So you can do really useful things like run your own scripts:
+```
+ATTRS{product}=="*MY-AWESOME-TOY*", MODE="660", GROUP="plugdev", TAG+="uaccess", RUN+="/usr/local/bin/my_script.sh"
+```
+
+Note, udev will be blocked during the running of the script, if you want to start some background process, your script should do something like `systemctl start my_service.service` to start a systemd service.
+
 ## Assignment
 
 To create an assignment, go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaAkcxVD5xSgf-vFdZe7URqDeUhAo9Vx-17YZgtpXpeTHpVQ/viewform?usp=sf_link) filling in the relevant information.  If you would like to reserve an allocation before making a new product public, select that option and email info@raspberrypi.com to request activation of the allocation when you are ready to go public (failure to do this will mean losing the allocation).
