@@ -37,6 +37,8 @@ Vendor-ID = 0x2E8A
 | 0x000A | Raspberry Pi | Raspberry Pi Pico SDK CDC UART | [Raspberry Pi Pico SDK](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) |
 | 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/board/raspberry_pi_pico/) |
 | 0x000C | Raspberry Pi | Raspberry Pi RP2040 CMSIS-DAP debug adapter |  |
+| 0x000D | Raspberry Pi | Raspberry Pi USB3HUB ( USB2 hub part) |  |
+| 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) |  |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
 | 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
