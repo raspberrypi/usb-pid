@@ -85,3 +85,19 @@ Vendor-ID = 0x2E8A
 | 0x1031 | maxsol gmbh | RF-ID Reader | www.maxsol.de |
 | 0x1032 | Invector Labs AB | Challenger RP2040 SubGHz | https://ilabs.se/challenger-rp2040-subghz-rfm69hcw-datasheet/ |
 | 0x1035 | LightWare Optoelectronics (Pty) Ltd | LightWare Lidar | https://lightwarelidar.com/collections/lidar-rangefinders |
+| 0x1037 | Electronic Cats | Hunter Cat NFC | https://github.com/ElectronicCats/BomberCat |
+| 0x1038 | i4M technologies GmbH | nemi Link USB Receiver | https://nemi.one/en/products.html |
+| 0x1039 | Waveshare Electronics | RP2040-LCD-1.28 | No website yet |
+| 0x103A | Waveshare Electronics | RP2040-One | No website yet |
+| 0x103B | FAST Pinball, LLC | FAST Pinball Controller | https://docs.fastpinball.com/products/controllers/neuron/ |
+| 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://docs.fastpinball.com/products/audio/audio-interface/ |
+| 0x103D | FAST Pinball, LLC | FAST Pinball Expansion | https://docs.fastpinball.com/products/expansion/201/ |
+| 0x103E | FAST Pinball, LLC | FAST Pinball Display | https://docs.fastpinball.com/products/display/rgb-dmd/ |
+| 0x103F | Electronic Cats | BomberCat | https://electroniccats.com/store/bombercat/ |
+| 0x1040 | Invector Labs AB | Challenger RP2040 NFC | https://ilabs.se/challenger-rp2040-nfc-datasheet/ |
+| 0x1041 | BridgeTek Pte Ltd | IDM2040-7A | https://brtchip.com/ic-module/product/idm2040-7a/ |
+| 0x1042 | Interact Labs | TACT | https://www.interact-labs.com/ |
+| 0x1011 | Melopero S.r.l. | Melopero Cookie RP2040 | https://melopero.com/melopero-cookie-rp2040 |
+| 0x1044 | Waveshare Electronics | Power Management HAT (B) | https://www.waveshare.com/power-management-hat-b.htm |
+| 0x1045 | Velocitronics Motion Systems, Inc. | Vms LX4e Laser Controller | Not assigned yet |
+| 0x1046 | WIZnet Co., Ltd. | W6100-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico |
