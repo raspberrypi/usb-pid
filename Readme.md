@@ -71,7 +71,7 @@ Vendor-ID = 0x2E8A
 | 0x1021 | Waveshare Electronics | RP2040-LCD-0.96 | https://www.waveshare.com/rp2040-lcd-0.96.htm |
 | 0x1022 | Reserved | | |
 | 0x1023 | Invector Labs AB | Challenger RP2040 LoRa | https://ilabs.se/product/challenger-rp2040-lora/ |
-| 0x1025 | Lone Dynamics Corporation | Müsli USB Pmod | https://machdyne.com/product/musli-usb-pmod/ |
+| 0x1025 | Lone Dynamics Corporation | M?sli USB Pmod | https://machdyne.com/product/musli-usb-pmod/ |
 | 0x1026 | ELECFREAKS TECHNOLOGY | Pico:ed | https://www.elecfreaks.com/picoed.html |
 | 0x1027 | WIZnet Co., Ltd. | W5100S-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico |
 | 0x1028 | WIZnet Co., Ltd. | WizFi360-EVB-Pico | https://docs.wiznet.io/Product/Open-Source-Hardware/wizfi360-evb-pico |
@@ -101,3 +101,4 @@ Vendor-ID = 0x2E8A
 | 0x1044 | Waveshare Electronics | Power Management HAT (B) | https://www.waveshare.com/power-management-hat-b.htm |
 | 0x1045 | Velocitronics Motion Systems, Inc. | Vms LX4e Laser Controller | Not assigned yet |
 | 0x1046 | WIZnet Co., Ltd. | W6100-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico |
+| 0x1048 | NULLBITS LLC | nullbits Bit-C PRO RP2040 | nullbits.co/bit-c-pro |
