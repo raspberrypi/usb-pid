@@ -54,8 +54,10 @@ Vendor-ID = 0x2E8A
 | 0x100b | Invector Labs AB | Challenger RP2040 LTE | https://ilabs.se/product/challenger-rp2040-lte/ |
 | 0x100c | Tranquility IT Inc. | CNC Control Pendant | https://www.madewithcnc.com/products/hand-held-console-for-tormach-path-pilot-cnc-machines |
 | 0x100d | Invector Labs AB | Challenger NB RP2040 WiFi | https://ilabs.se/product/challenger-nb-rp2040-wifi/ |
+| 0x100E | Adafruit Industries LLC | Raspberry Pi Zero | https://circuitpython.org/board/raspberrypi_zero/ |
 | 0x100f | Cytron Technologies | Cytron Maker Nano RP2040 | https://www.cytron.io/p-maker-nano-rp2040 |
 | 0x1010 | Invector Labs AB | RPICO32 | |
+| 0x1011 | Melopero S.r.l. | Melopero Cookie RP2040 | https://melopero.com/melopero-cookie-rp2040 |
 | 0x1012 | Adafruit Industries LLC | Raspberry Pi CM4 IO | https://circuitpython.org/board/raspberrypi_cm4io |
 | 0x1013 | Adafruit Industries LLC | Raspberry Pi 4 | https://circuitpython.org/board/raspberrypi_pi4b |
 | 0x1014 | Adafruit Industries LLC | Raspberry Pi CM4 | https://circuitpython.org/board/raspberrypi_cm4 |
@@ -63,7 +65,6 @@ Vendor-ID = 0x2E8A
 | 0x1016 | Pimoroni Ltd | Pimoroni Tiny 2040 (2MB) | https://pimoroni.com/tiny2040 |
 | 0x101A | Pimoroni Ltd | Pimoroni Servo 2040 | https://pimoroni.com/servo2040 |
 | 0x101B | Pimoroni Ltd | Pimoroni Badger 2040 | https://pimoroni.com/badger2040 |
-| 0x100E | Adafruit Industries LLC | Raspberry Pi Zero | https://circuitpython.org/board/raspberrypi_zero/ |
 | 0x101E | Adafruit Industries | Raspberry Pi Zero W | https://circuitpython.org/board/raspberrypi_zero_w/ |
 | 0x101F | Waveshare Electronics | RP2040-Zero | https://www.waveshare.com/rp2040-zero.htm |
 | 0x1020 | Waveshare Electronics | RP2040-Plus | https://www.waveshare.com/rp2040-plus.htm |
@@ -97,7 +98,6 @@ Vendor-ID = 0x2E8A
 | 0x1040 | Invector Labs AB | Challenger RP2040 NFC | https://ilabs.se/challenger-rp2040-nfc-datasheet/ |
 | 0x1041 | BridgeTek Pte Ltd | IDM2040-7A | https://brtchip.com/ic-module/product/idm2040-7a/ |
 | 0x1042 | Interact Labs | TACT | https://www.interact-labs.com/ |
-| 0x1011 | Melopero S.r.l. | Melopero Cookie RP2040 | https://melopero.com/melopero-cookie-rp2040 |
 | 0x1044 | Waveshare Electronics | Power Management HAT (B) | https://www.waveshare.com/power-management-hat-b.htm |
 | 0x1045 | Velocitronics Motion Systems, Inc. | Vms LX4e Laser Controller | Not assigned yet |
 | 0x1046 | WIZnet Co., Ltd. | W6100-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico |
