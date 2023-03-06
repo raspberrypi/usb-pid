@@ -105,3 +105,4 @@ Vendor-ID = 0x2E8A
 | 0x104A | boardsrc | Blok | https://boardsource.xyz/store/628b95b494dfa308a6581622 |
 | 0x104B | Datanoise UG (haftungsbeschr?nkt) | PicoADK | https://github.com/DatanoiseTV/PicoADK-Firmware-Template |
 | 0x104C |  Advanced Design Technology co.,ltd. | COSMO-Pico | https://pico.cosmo-edtech.jp/ |
+| 0x104D |  MaxxStick Controllers | MaxxStick R3 | https://maxxstick.com |
