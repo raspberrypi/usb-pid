@@ -102,3 +102,4 @@ Vendor-ID = 0x2E8A
 | 0x1045 | Velocitronics Motion Systems, Inc. | Vms LX4e Laser Controller | Not assigned yet |
 | 0x1046 | WIZnet Co., Ltd. | W6100-EVB-Pico | https://docs.wiznet.io/Product/iEthernet/W6100/w6100-evb-pico |
 | 0x1048 | NULLBITS LLC | nullbits Bit-C PRO RP2040 | nullbits.co/bit-c-pro |
+| 0x104A | boardsrc | Blok | https://boardsource.xyz/store/628b95b494dfa308a6581622 |
