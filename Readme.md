@@ -106,3 +106,4 @@ Vendor-ID = 0x2E8A
 | 0x104B | Datanoise UG (haftungsbeschr?nkt) | PicoADK | https://github.com/DatanoiseTV/PicoADK-Firmware-Template |
 | 0x104C |  Advanced Design Technology co.,ltd. | COSMO-Pico | https://pico.cosmo-edtech.jp/ |
 | 0x104D |  MaxxStick Controllers | MaxxStick R3 | https://maxxstick.com |
+| 0x104E | Spectra GmbH & Co. KG | CDC / HID device |  |
