@@ -108,3 +108,4 @@ Vendor-ID = 0x2E8A
 | 0x104D |  MaxxStick Controllers | MaxxStick R3 | https://maxxstick.com |
 | 0x104E | Spectra GmbH & Co. KG | CDC / HID device |  |
 | 0x104F | Pimoroni Ltd | Pimoroni Badger 2040 W | https://shop.pimoroni.com/products/badger-2040-w |
+| 0x1050 | Open Gadgets LLC | Pixelcade | http://pixelcade.org |
