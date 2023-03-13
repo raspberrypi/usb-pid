@@ -63,6 +63,9 @@ Vendor-ID = 0x2E8A
 | 0x1014 | Adafruit Industries LLC | Raspberry Pi CM4 | https://circuitpython.org/board/raspberrypi_cm4 |
 | 0x1015 | Adafruit Industries LLC | Raspberry Pi Zero 2W | https://circuitpython.org/board/raspberrypi_zero2w |
 | 0x1016 | Pimoroni Ltd | Pimoroni Tiny 2040 (2MB) | https://pimoroni.com/tiny2040 |
+| 0x1017 | Pimoroni Ltd | Pimoroni Automation 2040 W | https://pimoroni.com/automation2040w |
+| 0x1018 | Pimoroni Ltd | Pimoroni Inky Frame 5.7" | https://shop.pimoroni.com/products/inky-frame-5-7 |
+| 0x1019 | Pimoroni Ltd | Pimoroni Motor 2040 | https://pimoroni.com/motor2040 |
 | 0x101A | Pimoroni Ltd | Pimoroni Servo 2040 | https://pimoroni.com/servo2040 |
 | 0x101B | Pimoroni Ltd | Pimoroni Badger 2040 | https://pimoroni.com/badger2040 |
 | 0x101E | Adafruit Industries | Raspberry Pi Zero W | https://circuitpython.org/board/raspberrypi_zero_w/ |
