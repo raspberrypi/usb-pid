@@ -114,3 +114,4 @@ Vendor-ID = 0x2E8A
 | 0x1050 | Open Gadgets LLC | Pixelcade | http://pixelcade.org |
 | 0x1051 | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - Spectra XR |  |
 | 0x1052 | Invector Labs AB | Challenger RP2040 UWB | https://ilabs.se/challenger-rp2040-uwb-datasheet/ |
+| 0x1053 | Dahl Design | DDC controller software | https://github.com/andreasdahl1987/DahlDesignDDC |
