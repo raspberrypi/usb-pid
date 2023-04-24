@@ -116,3 +116,4 @@ Vendor-ID = 0x2E8A
 | 0x1052 | Invector Labs AB | Challenger RP2040 UWB | https://ilabs.se/challenger-rp2040-uwb-datasheet/ |
 | 0x1053 | Dahl Design | DDC controller software | https://github.com/andreasdahl1987/DahlDesignDDC |
 | 0x1054 | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-5 Display |  |
+| 0x1055 | Waveshare Electronics | RP2040-ETH | https://www.waveshare.com/rp2040-eth.htm |
