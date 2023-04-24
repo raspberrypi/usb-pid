@@ -117,3 +117,4 @@ Vendor-ID = 0x2E8A
 | 0x1053 | Dahl Design | DDC controller software | https://github.com/andreasdahl1987/DahlDesignDDC |
 | 0x1054 | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-5 Display |  |
 | 0x1055 | Waveshare Electronics | RP2040-ETH | https://www.waveshare.com/rp2040-eth.htm |
+| 0x1056 | Waveshare Electronics | RP2040-HACK | No website yet |
