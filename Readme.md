@@ -120,3 +120,4 @@ Vendor-ID = 0x2E8A
 | 0x1056 | Waveshare Electronics | RP2040-HACK | No website yet |
 | 0x1057 | Waveshare Electronics | RP2040-Touch-LCD-1.28 | No website yet |
 | 0x1058 | Pimoroni Ltd | Pimoroni Plasma Stick 2040 W | https://shop.pimoroni.com/products/plasma-stick-2040-w |
+| 0x1059 | Pimoroni Ltd | Pimoroni Pico DV Demo Base for Pico | https://shop.pimoroni.com/products/pimoroni-pico-dv-demo-base |
