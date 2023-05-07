@@ -93,10 +93,10 @@ Vendor-ID = 0x2E8A
 | 0x1038 | i4M technologies GmbH | nemi Link USB Receiver | https://nemi.one/en/products.html |
 | 0x1039 | Waveshare Electronics | RP2040-LCD-1.28 | No website yet |
 | 0x103A | Waveshare Electronics | RP2040-One | No website yet |
-| 0x103B | FAST Pinball, LLC | FAST Pinball Controller | https://docs.fastpinball.com/products/controllers/neuron/ |
-| 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://docs.fastpinball.com/products/audio/audio-interface/ |
-| 0x103D | FAST Pinball, LLC | FAST Pinball Expansion | https://docs.fastpinball.com/products/expansion/201/ |
-| 0x103E | FAST Pinball, LLC | FAST Pinball Display | https://docs.fastpinball.com/products/display/rgb-dmd/ |
+| 0x103B | FAST Pinball, LLC | FAST Pinball Controller | https://fastpinball.com/products/controllers/neuron/ |
+| 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://fastpinball.com/products/controllers/neuron/ |
+| 0x103D | FAST Pinball, LLC | FAST Pinball Expansion | https://fastpinball.com/products/expansion/71/ |
+| 0x103E | FAST Pinball, LLC | FAST Pinball Display | https://fastpinball.com/products/display/rgb-dmd/ |
 | 0x103F | Electronic Cats | BomberCat | https://electroniccats.com/store/bombercat/ |
 | 0x1040 | Invector Labs AB | Challenger RP2040 NFC | https://ilabs.se/challenger-rp2040-nfc-datasheet/ |
 | 0x1041 | BridgeTek Pte Ltd | IDM2040-7A | https://brtchip.com/ic-module/product/idm2040-7a/ |
