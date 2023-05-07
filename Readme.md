@@ -94,7 +94,7 @@ Vendor-ID = 0x2E8A
 | 0x1039 | Waveshare Electronics | RP2040-LCD-1.28 | No website yet |
 | 0x103A | Waveshare Electronics | RP2040-One | No website yet |
 | 0x103B | FAST Pinball, LLC | FAST Pinball Controller | https://fastpinball.com/products/controllers/neuron/ |
-| 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://fastpinball.com/products/controllers/neuron/ |
+| 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://fastpinball.com/products/audio/audio-interface/ |
 | 0x103D | FAST Pinball, LLC | FAST Pinball Expansion | https://fastpinball.com/products/expansion/71/ |
 | 0x103E | FAST Pinball, LLC | FAST Pinball Display | https://fastpinball.com/products/display/rgb-dmd/ |
 | 0x103F | Electronic Cats | BomberCat | https://electroniccats.com/store/bombercat/ |
