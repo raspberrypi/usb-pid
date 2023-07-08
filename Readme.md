@@ -127,3 +127,4 @@ Vendor-ID = 0x2E8A
 | 0x105D | AND!XOR LLC | DC31 5N4CK3Y 7R | Github to be released late August due to sensitivity |
 | 0x105E | J & R Creative Technologies Inc. | Raspberry Breadstick | https://github.com/mrangen/RP2040-Breadstick |
 | 0x105F | Invector Labs AB | Challenger RP2040 WiFi6/BLE | https://ilabs.se/challenger-rp2040-wifi6-ble-datasheet/ |
+| 0x1060 | splitkb.com | Liatris | https://splitkb.com/products/liatris |
