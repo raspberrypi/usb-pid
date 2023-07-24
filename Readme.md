@@ -128,3 +128,4 @@ Vendor-ID = 0x2E8A
 | 0x105E | J & R Creative Technologies Inc. | Raspberry Breadstick | https://github.com/mrangen/RP2040-Breadstick |
 | 0x105F | Invector Labs AB | Challenger RP2040 WiFi6/BLE | https://ilabs.se/challenger-rp2040-wifi6-ble-datasheet/ |
 | 0x1060 | splitkb.com | Liatris | https://splitkb.com/products/liatris |
+| 0x1063 | Pajenicko s.r.o. | Picopad / Picopad Wifi | picopad.eu |
