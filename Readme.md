@@ -130,3 +130,4 @@ Vendor-ID = 0x2E8A
 | 0x1060 | splitkb.com | Liatris | https://splitkb.com/products/liatris |
 | 0x1063 | Pajenicko s.r.o. | Picopad / Picopad Wifi | picopad.eu |
 | 0x1065 | WallyWare, inc | MICROpi |  |
+| 0x1067 | WisdPi | Ardu2040M | https://www.wisdpi.com/products/ardu2040m-rp2040-arduino-style-dev-board |
