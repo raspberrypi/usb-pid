@@ -131,3 +131,4 @@ Vendor-ID = 0x2E8A
 | 0x1063 | Pajenicko s.r.o. | Picopad / Picopad Wifi | picopad.eu |
 | 0x1065 | WallyWare, inc | MICROpi |  |
 | 0x1067 | WisdPi | Ardu2040M | https://www.wisdpi.com/products/ardu2040m-rp2040-arduino-style-dev-board |
+| 0x106A | WisdPi | WisdPi Tiny RP2040 | https://www.wisdpi.com/products/wisdpi-tiny-rp2040-a-tiny-cool-rp2040-dev-board-with-4mb-flash |
