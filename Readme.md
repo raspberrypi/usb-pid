@@ -136,3 +136,4 @@ Vendor-ID = 0x2E8A
 | 0x106A | WisdPi | WisdPi Tiny RP2040 | https://www.wisdpi.com/products/wisdpi-tiny-rp2040-a-tiny-cool-rp2040-dev-board-with-4mb-flash |
 | 0x106B | Protexa SA de CV | XLAB CoreControl | https://xlabhq.com/2021/10/12/core-control/ |
 | 0x106C | Protexa  |  | https://xlabhq.com/2021/10/12/core-control/ |
+| 0x106E | Life Imaging Services GmbH | MFC-DAQ01 | https://www.lifeimagingservices.com/products/ |
