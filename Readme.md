@@ -137,5 +137,6 @@ Vendor-ID = 0x2E8A
 | 0x106B | Protexa SA de CV | XLAB CoreControl | https://xlabhq.com/2021/10/12/core-control/ |
 | 0x106C | Protexa  |  | https://xlabhq.com/2021/10/12/core-control/ |
 | 0x106E | Life Imaging Services GmbH | MFC-DAQ01 | https://www.lifeimagingservices.com/products/ |
+| 0x106F | L'atelier d'Arnoz | DudesCab |  |
 | 0x1071 | Cytron Technologies Sdn. Bhd. | Cytron Maker Uno RP2040 | https://www.cytron.io/p-maker-uno-rp2040 |
 | 0x1072 | Maple Computing, LLC | Elite-Pi | https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040 |
