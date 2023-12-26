@@ -143,3 +143,4 @@ Vendor-ID = 0x2E8A
 | 0x1073 | Brad?n Lane STUDIO | DCKids Badge | Gitlab - The hardware will released August 2024 |
 | 0x1074 | Cytron Technologies S/B | Cytron EDU PICO | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
 | 0x1075 | ACustomArcade LLC | PicoCTR | https://acustomarcade.com |
+| 0x1076 | Hel-Wacht Holding GmbH | Lift eye-P Mini | https://www.lifteyep.com/ |
