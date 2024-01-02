@@ -145,3 +145,4 @@ Vendor-ID = 0x2E8A
 | 0x1075 | ACustomArcade LLC | PicoCTR | https://acustomarcade.com |
 | 0x1076 | Hel-Wacht Holding GmbH | Lift eye-P Mini | https://www.lifteyep.com/ |
 | 0x1077 | Incredivation LLC | IncrediDAQ 100 | Not active yet but will be a sub-page of https://incredivation.com/ |
+| 0x1078 | Hel-Wacht Holding GmbH | Stella Mini | https://www.my-stella.com/ |
