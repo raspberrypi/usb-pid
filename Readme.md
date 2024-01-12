@@ -148,3 +148,4 @@ Vendor-ID = 0x2E8A
 | 0x1078 | Hel-Wacht Holding GmbH | Stella Mini | https://www.my-stella.com/ |
 | 0x1079 | GermanGamingSupplies | VPinIO |  |
 | 0x107B | Invector Labs AB | Connectivity RP2040 LTE/WIFI/BLE | https://ilabs.se/connectivity-rp2040-lte-wifi-ble-datasheet/ |
+| 0x107C | Hrvoje Cavrak | DeskHop | https://github.com/hrvach/deskhop |
