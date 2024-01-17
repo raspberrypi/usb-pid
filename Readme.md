@@ -31,8 +31,8 @@ Vendor-ID = 0x2E8A
 | Product ID | Company | Product Description | Product link |
 | --- | --- | --- | --- |
 | **Internal** | | | |
-| 0x0003 | Raspberry Pi | Raspberry Pi RP2040 boot | [RP2040](https://www.raspberrypi.org/documentation/pico/getting-started/) |
-| 0x0004 | Raspberry Pi | Raspberry Pi PicoProbe | [PicoProbe](https://github.com/raspberrypi/picoprobe/) | NA |
+| 0x0003 | Raspberry Pi | Raspberry Pi RP2040 boot | [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
+| 0x0004 | Raspberry Pi | Raspberry Pi PicoProbe | [PicoProbe](https://github.com/raspberrypi/picoprobe/) |
 | 0x0005 | Raspberry Pi | Raspberry Pi Pico MicroPython firmware (CDC) | [MicroPython Firmware](https://micropython.org/download/rp2-pico/) |
 | 0x000A | Raspberry Pi | Raspberry Pi Pico SDK CDC UART | [Raspberry Pi Pico SDK](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) |
 | 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/board/raspberry_pi_pico/) |
