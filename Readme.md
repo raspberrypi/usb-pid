@@ -132,6 +132,7 @@ Vendor-ID = 0x2E8A
 | 0x1064 | Union Dynamic | Jackal | https://jtagjackal.io |
 | 0x1065 | WallyWare, inc | MICROpi |  |
 | 0x1067 | WisdPi | Ardu2040M | https://www.wisdpi.com/products/ardu2040m-rp2040-arduino-style-dev-board |
+| 0x1068 | Lost Cause Photographic, LLC | GPI Controller Mk. 1 | https://lostcause.photo/projects/controlroom/ |
 | 0x1069 | Zoid Technology | Matrix | https://zoid.com.au/matrix/ |
 | 0x106A | WisdPi | WisdPi Tiny RP2040 | https://www.wisdpi.com/products/wisdpi-tiny-rp2040-a-tiny-cool-rp2040-dev-board-with-4mb-flash |
 | 0x106B | Protexa SA de CV | XLAB CoreControl | https://xlabhq.com/2021/10/12/core-control/ |
