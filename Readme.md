@@ -24,7 +24,7 @@ Note, udev will be blocked during the running of the script, if you want to star
 
 ## Assignment
 
-To create an assignment, go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaAkcxVD5xSgf-vFdZe7URqDeUhAo9Vx-17YZgtpXpeTHpVQ/viewform?usp=sf_link) filling in the relevant information.  If you would like to reserve an allocation before making a new product public, select that option and email info@raspberrypi.com to request activation of the allocation when you are ready to go public (failure to do this will mean losing the allocation).
+To create an assignment, go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaAkcxVD5xSgf-vFdZe7URqDeUhAo9Vx-17YZgtpXpeTHpVQ/viewform?usp=sf_link) filling in the relevant information.  If you would like to reserve an allocation before making a new product public, select that option and submit a pull request to change this document, adding your product when you are ready to go public (failure to do this will mean losing the allocation).
 
 Vendor-ID = 0x2E8A
 
