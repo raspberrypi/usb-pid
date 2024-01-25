@@ -149,3 +149,4 @@ Vendor-ID = 0x2E8A
 | 0x1079 | GermanGamingSupplies | VPinIO |  |
 | 0x107B | Invector Labs AB | Connectivity RP2040 LTE/WIFI/BLE | https://ilabs.se/connectivity-rp2040-lte-wifi-ble-datasheet/ |
 | 0x107C | Hrvoje Cavrak | DeskHop | https://github.com/hrvach/deskhop |
+| 0x107D | Haute ?cole d'ing?nierie et d'architecture | Picomo | https://go.heia-fr.ch/picomo |
