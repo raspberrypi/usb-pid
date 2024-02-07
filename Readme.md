@@ -152,3 +152,4 @@ Vendor-ID = 0x2E8A
 | 0x107D | Haute ?cole d'ing?nierie et d'architecture | Picomo | https://go.heia-fr.ch/picomo |
 | 0x107E | Cytron Technologies S/B | Cytron EDU PICO for Pico | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
 | 0x107F | x-pantion | Croco Gameboy Cartridge | https://github.com/shilga/rp2040-gameboy-cartridge-firmware |
+| 0x1081 | Pimoroni Ltd | Inky Frame 7.3" | https://shop.pimoroni.com/products/inky-frame-7-3 |
