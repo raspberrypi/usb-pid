@@ -155,3 +155,4 @@ Vendor-ID = 0x2E8A
 | 0x1081 | Pimoroni Ltd | Inky Frame 7.3" | https://shop.pimoroni.com/products/inky-frame-7-3 |
 | 0x1082 | Lost Cause Photographic, LLC | GPI Controller Mk. 1 | https://lostcause.photo/projects/controlroom/ |
 | 0x1083 | Waveshare Electronics | RP2040-PiZero | https://www.waveshare.com/RP2040-PiZero.htm |
+| 0x1084 | Waveshare Electronics | RP2040-Tiny | https://www.waveshare.com/RP2040-Tiny.htm |
