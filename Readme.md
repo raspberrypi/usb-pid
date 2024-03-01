@@ -158,3 +158,4 @@ Vendor-ID = 0x2E8A
 | 0x1084 | Waveshare Electronics | RP2040-Tiny | https://www.waveshare.com/RP2040-Tiny.htm |
 | 0x1085 | Waveshare Electronics | RP2040-Matrix | https://www.waveshare.com/RP2040-Matrix.htm |
 | 0x1086 | Waveshare Electronics | RP2040-BLE | https://www.waveshare.com/rp2040-ble.htm |
+| 0x1087 | Waveshare Electronics | PICO-Cam-A | https://www.waveshare.com/pico-cam-a.htm |
