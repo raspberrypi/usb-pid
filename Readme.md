@@ -162,3 +162,4 @@ Vendor-ID = 0x2E8A
 | 0x1088 | Supercritical Ltd | Redshift 6 | https://supercriticalsynthesizers.com/redshift6/ |
 | 0x1089 | FH Aachen University of Applied Sciences | RP2040 Lauchpad | https://github.com/Terstegge/rp2040-launchpad-PCB |
 | 0x108A | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - Spectra LT | www.soelpec.com |
+| 0x108B | YNO Engineering Ltd | Late Mate | https://late-mate.com/ |
