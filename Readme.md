@@ -91,8 +91,8 @@ Vendor-ID = 0x2E8A
 | 0x1035 | LightWare Optoelectronics (Pty) Ltd | LightWare Lidar | https://lightwarelidar.com/collections/lidar-rangefinders |
 | 0x1037 | Electronic Cats | Hunter Cat NFC | https://github.com/ElectronicCats/BomberCat |
 | 0x1038 | i4M technologies GmbH | nemi Link USB Receiver | https://nemi.one/en/products.html |
-| 0x1039 | Waveshare Electronics | RP2040-LCD-1.28 | No website yet |
-| 0x103A | Waveshare Electronics | RP2040-One | No website yet |
+| 0x1039 | Waveshare Electronics | RP2040-LCD-1.28 | https://www.waveshare.com/rp2040-lcd-1.28.htm |
+| 0x103A | Waveshare Electronics | RP2040-One | https://www.waveshare.com/rp2040-one.htm |
 | 0x103B | FAST Pinball, LLC | FAST Pinball Controller | https://fastpinball.com/products/controllers/neuron/ |
 | 0x103C | FAST Pinball, LLC | FAST Pinball Audio | https://fastpinball.com/products/audio/audio-interface/ |
 | 0x103D | FAST Pinball, LLC | FAST Pinball Expansion | https://fastpinball.com/products/expansion/71/ |
@@ -119,8 +119,8 @@ Vendor-ID = 0x2E8A
 | 0x1053 | Dahl Design | DDC controller software | https://github.com/andreasdahl1987/DahlDesignDDC |
 | 0x1054 | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-5 Display |  |
 | 0x1055 | Waveshare Electronics | RP2040-ETH | https://www.waveshare.com/rp2040-eth.htm |
-| 0x1056 | Waveshare Electronics | RP2040-GEEK | No website yet |
-| 0x1057 | Waveshare Electronics | RP2040-Touch-LCD-1.28 | No website yet |
+| 0x1056 | Waveshare Electronics | RP2040-GEEK | https://www.waveshare.com/rp2040-geek.htm |
+| 0x1057 | Waveshare Electronics | RP2040-Touch-LCD-1.28 | https://www.waveshare.com/product/rp2040-touch-lcd-1.28.htm |
 | 0x1058 | Pimoroni Ltd | Pimoroni Plasma Stick 2040 W | https://shop.pimoroni.com/products/plasma-stick-2040-w |
 | 0x1059 | Pimoroni Ltd | Pimoroni Pico DV Demo Base for Pico | https://shop.pimoroni.com/products/pimoroni-pico-dv-demo-base |
 | 0x105A | Pimoroni Ltd | Pimoroni Pico DV Demo Base for Pico W | https://shop.pimoroni.com/products/pimoroni-pico-dv-demo-base |
