@@ -164,3 +164,4 @@ Vendor-ID = 0x2E8A
 | 0x108A | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - Spectra LT | www.soelpec.com |
 | 0x108B | YNO Engineering Ltd | Late Mate | https://late-mate.com/ |
 | 0x108D | Phase Sim Racing | ICD62 Board | No website yet |
+| 0x108E | Velocitas Imperium | VI-CWBB | https://velocitasimperium.com/products/vi-cwbb-project |
