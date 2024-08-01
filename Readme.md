@@ -168,3 +168,4 @@ Vendor-ID = 0x2E8A
 | 0x108F | ACustomArcade LLC | AGC-4P | https://acustomarcade.com |
 | 0x1090 | Wee Noise Makers | Noise Nugget 2040 |  |
 | 0x1091 | Bridgetek Pte Ltd | IDM2040-43A | https://brtchip.com/product/idm2040-43a/ |
+| 0x1092 | Limit Labs | Glyph | https://www.satisfye.com/products/glyph-base?variant=43804156199074 |
