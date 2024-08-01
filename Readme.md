@@ -171,3 +171,4 @@ Vendor-ID = 0x2E8A
 | 0x1092 | Limit Labs | Glyph | https://www.satisfye.com/products/glyph-base?variant=43804156199074 |
 | 0x1094 | Velocitas Imperium | NOVA Evo | https://velocitasimperium.com/products/nova-evo-project |
 | 0x1095 | Udo Munk |  | https://github.com/udo-munk/RP2040-GEEK-80 |
+| 0x1098 | Pimoroni Ltd | Picade Max Input | https://shop.pimoroni.com/products/picade-max |
