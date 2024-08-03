@@ -173,3 +173,4 @@ Vendor-ID = 0x2E8A
 | 0x1095 | Udo Munk |  | https://github.com/udo-munk/RP2040-GEEK-80 |
 | 0x1098 | Pimoroni Ltd | Picade Max Input | https://shop.pimoroni.com/products/picade-max |
 | 0x1099 | Pimoroni Ltd | Picade Max Audio | https://shop.pimoroni.com/products/picade-max |
+| 0x109D | Velocitas Imperium | VI-LAPTIMER | https://velocitasimperium.com/products/vi-laptimer |
