@@ -172,8 +172,10 @@ Vendor-ID = 0x2E8A
 | 0x1090 | Wee Noise Makers | Noise Nugget 2040 |  |
 | 0x1091 | Bridgetek Pte Ltd | IDM2040-43A | https://brtchip.com/product/idm2040-43a/ |
 | 0x1092 | Limit Labs | Glyph | https://www.satisfye.com/products/glyph-base?variant=43804156199074 |
+| 0x1093 | Cytron Technologies S/B | Cytron IRIV IO Controller | https://www.cytron.io/p-iriv-io-controller |
 | 0x1094 | Velocitas Imperium | NOVA Evo | https://velocitasimperium.com/products/nova-evo-project |
 | 0x1095 | Udo Munk |  | https://github.com/udo-munk/RP2040-GEEK-80 |
+| 0x1096 | Cytron Technologies S/B | Cytron MOTION 2350 Pro | https://www.cytron.io/p-motion-2350-pro |
 | 0x1098 | Pimoroni Ltd | Picade Max Input | https://shop.pimoroni.com/products/picade-max |
 | 0x1099 | Pimoroni Ltd | Picade Max Audio | https://shop.pimoroni.com/products/picade-max |
 | 0x109D | Velocitas Imperium | VI-LAPTIMER | https://velocitasimperium.com/products/vi-laptimer |
