@@ -179,3 +179,4 @@ Vendor-ID = 0x2E8A
 | 0x1098 | Pimoroni Ltd | Picade Max Input | https://shop.pimoroni.com/products/picade-max |
 | 0x1099 | Pimoroni Ltd | Picade Max Audio | https://shop.pimoroni.com/products/picade-max |
 | 0x109D | Velocitas Imperium | VI-LAPTIMER | https://velocitasimperium.com/products/vi-laptimer |
+| 0x109E | WIZnet Co., Ltd. | W5100S-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w5100s-evb-pico2 |
