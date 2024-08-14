@@ -182,3 +182,4 @@ Vendor-ID = 0x2E8A
 | 0x109E | WIZnet Co., Ltd. | W5100S-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w5100s-evb-pico2 |
 | 0x109F | WIZnet Co., Ltd. | W5500-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w5500-evb-pico2 |
 | 0x10A0 | WIZnet Co., Ltd. | W6100-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w6100-evb-pico2 |
+| 0x10A1 | GRAMCTRL LLC | GRAM Slim Smash | https://gramctrl.com/products/gram-slim-smash |
