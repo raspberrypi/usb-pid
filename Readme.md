@@ -187,3 +187,4 @@ Vendor-ID = 0x2E8A
 | 0x10A3 | Pimoroni Ltd | Pimoroni Pico Plus 2 | https://shop.pimoroni.com/products/pimoroni-pico-plus-2 |
 | 0x10A4 | Pimoroni Ltd | Pimoroni Tiny 2350 | https://shop.pimoroni.com/products/tiny-2350 |
 | 0x10A5 | Pimoroni Ltd | Pimoroni Plasma 2350 | https://shop.pimoroni.com/products/plasma-2350 |
+| 0x10A6 | Pimoroni Ltd | Pimoroni PGA2350 | https://shop.pimoroni.com/products/pga2350 |
