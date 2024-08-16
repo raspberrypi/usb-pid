@@ -185,3 +185,4 @@ Vendor-ID = 0x2E8A
 | 0x10A1 | GRAMCTRL LLC | GRAM Slim Smash | https://gramctrl.com/products/gram-slim-smash |
 | 0x10A2 | Pimoroni Ltd | Pimoroni Tiny FX | https://shop.pimoroni.com/products/tinyfx |
 | 0x10A3 | Pimoroni Ltd | Pimoroni Pico Plus 2 | https://shop.pimoroni.com/products/pimoroni-pico-plus-2 |
+| 0x10A4 | Pimoroni Ltd | Pimoroni Tiny 2350 | https://shop.pimoroni.com/products/tiny-2350 |
