@@ -188,3 +188,4 @@ Vendor-ID = 0x2E8A
 | 0x10A4 | Pimoroni Ltd | Pimoroni Tiny 2350 | https://shop.pimoroni.com/products/tiny-2350 |
 | 0x10A5 | Pimoroni Ltd | Pimoroni Plasma 2350 | https://shop.pimoroni.com/products/plasma-2350 |
 | 0x10A6 | Pimoroni Ltd | Pimoroni PGA2350 | https://shop.pimoroni.com/products/pga2350 |
+| 0x10A9 | COMFILE Technology, Inc. | CFHEADER |  |
