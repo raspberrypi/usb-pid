@@ -190,3 +190,4 @@ Vendor-ID = 0x2E8A
 | 0x10A5 | Pimoroni Ltd | Pimoroni Plasma 2350 | https://shop.pimoroni.com/products/plasma-2350 |
 | 0x10A6 | Pimoroni Ltd | Pimoroni PGA2350 | https://shop.pimoroni.com/products/pga2350 |
 | 0x10A9 | COMFILE Technology, Inc. | CFHEADER |  |
+| 0x10AA | KeyForge | Macropad device | https://keyforge.tech/product/macropad-mk-01/ |
