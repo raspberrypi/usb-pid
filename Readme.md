@@ -195,3 +195,4 @@ Vendor-ID = 0x2E8A
 | 0x10AC | Velocitas Imperium | B7-DDU | https://velocitasimperium.com/products/b7-ddu-project |
 | 0x10AD | ZELLMECHANIK DRESDEN GmbH | AcCellerator | https://zellmechanik.com |
 | 0x10AE | Datanoise | PicoADK v2 (RP2350) | https://datanoise.shop/products/picoadk-v2 |
+| 0x10AF | Sting Alleman |  | There's none - this is a small batch of custom made products |
