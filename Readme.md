@@ -199,3 +199,4 @@ Vendor-ID = 0x2E8A
 | 0x10B0 | Waveshare Electronics | RP2350-Zero | No website yet |
 | 0x10B1 | Waveshare Electronics | RP2350-Plus | No website yet |
 | 0x10B2 | Waveshare Electronics | RP2350-Tiny | No website yet |
+| 0x10B3 | Waveshare Electronics | RP2350-LCD-1.28 | No website yet |
