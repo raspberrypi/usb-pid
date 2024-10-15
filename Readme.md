@@ -204,3 +204,4 @@ Vendor-ID = 0x2E8A
 | 0x10B5 | Waveshare Electronics | RP2350-One | No website yet |
 | 0x10B6 | Waveshare Electronics | RP2350-GEEK | No website yet |
 | 0x10B7 | Waveshare Electronics | RP2350-LCD-0.96 | No website yet |
+| 0x10B8 | ALS | PROG-001-3300 | - |
