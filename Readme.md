@@ -197,3 +197,4 @@ Vendor-ID = 0x2E8A
 | 0x10AE | Datanoise | PicoADK v2 (RP2350) | https://datanoise.shop/products/picoadk-v2 |
 | 0x10AF | Sting Alleman |  | There's none - this is a small batch of custom made products |
 | 0x10B0 | Waveshare Electronics | RP2350-Zero | No website yet |
+| 0x10B1 | Waveshare Electronics | RP2350-Plus | No website yet |
