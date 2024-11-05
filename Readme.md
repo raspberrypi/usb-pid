@@ -140,6 +140,7 @@ Vendor-ID = 0x2E8A
 | 0x106A | WisdPi | WisdPi Tiny RP2040 | https://www.wisdpi.com/products/wisdpi-tiny-rp2040-a-tiny-cool-rp2040-dev-board-with-4mb-flash |
 | 0x106B | Protexa SA de CV | XLAB CoreControl | https://xlabhq.com/2021/10/12/core-control/ |
 | 0x106C | Protexa  |  | https://xlabhq.com/2021/10/12/core-control/ |
+| 0x106D | SEKISUI KINZOKU CO., LTD | KATO EC-1 | https://www.kato-special.com/ec-1 |
 | 0x106E | Life Imaging Services GmbH | MFC-DAQ01 | https://www.lifeimagingservices.com/products/ |
 | 0x106F | L'atelier d'Arnoz | DudesCab |  |
 | 0x1071 | Cytron Technologies Sdn. Bhd. | Cytron Maker Uno RP2040 | https://www.cytron.io/p-maker-uno-rp2040 |
