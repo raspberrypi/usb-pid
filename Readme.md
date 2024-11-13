@@ -208,3 +208,4 @@ Vendor-ID = 0x2E8A
 | 0x10B8 | ALS | PROG-001-3300 | - |
 | 0x10B9 | PicoScratch | PicoScratch MINT | https://www.picoscratch.de/mint |
 | 0x10BA | StratoRise Ltd | SRGS | https://stratorise.com |
+| 0x10BB | StratoRise Ltd | SRFCS | https://stratorise.com |
