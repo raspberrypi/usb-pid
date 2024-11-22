@@ -210,3 +210,4 @@ Vendor-ID = 0x2E8A
 | 0x10BA | StratoRise Ltd | SRGS | https://stratorise.com |
 | 0x10BB | StratoRise Ltd | SRFCS | https://stratorise.com |
 | 0x10BC | Velocitas Imperium | VI-296BB | https://velocitasimperium.com/products/bb-296 |
+| 0x10BD | Pimoroni Ltd | Pimoroni Pico Plus 2 W | https://shop.pimoroni.com/products/pimoroni-pico-plus-2-w |
