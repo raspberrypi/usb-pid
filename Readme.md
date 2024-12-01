@@ -214,3 +214,4 @@ Vendor-ID = 0x2E8A
 | 0x10BE | Pimoroni Ltd | Pimoroni Tiny FX W | https://shop.pimoroni.com/products/tiny-fx-w |
 | 0x10BF | Pimoroni Ltd | Pimoroni Plasma 2350 W | https://shop.pimoroni.com/products/plasma-2350-w |
 | 0x10C0 | Pimoroni Ltd | Pimoroni Explorer | https://shop.pimoroni.com/products/explorer |
+| 0x10C1 | Music Thing modular  | Workshop Computer | https://www.musicthing.co.uk/workshopsystem/ |
