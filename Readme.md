@@ -144,10 +144,10 @@ Vendor-ID = 0x2E8A
 | 0x106D | SEKISUI KINZOKU CO., LTD | KATO EC-1 | https://www.kato-special.com/ec-1 |
 | 0x106E | Life Imaging Services GmbH | MFC-DAQ01 | https://www.lifeimagingservices.com/products/ |
 | 0x106F | L'atelier d'Arnoz | DudesCab |  |
-| 0x1071 | Cytron Technologies Sdn. Bhd. | Cytron Maker Uno RP2040 | https://www.cytron.io/p-maker-uno-rp2040 |
+| 0x1071 | Cytron Technologies | Cytron Maker Uno RP2040 | https://www.cytron.io/p-maker-uno-rp2040 |
 | 0x1072 | Maple Computing, LLC | Elite-Pi | https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040 |
 | 0x1073 | Brad?n Lane STUDIO | DCKids Badge | Gitlab - The hardware will released August 2024 |
-| 0x1074 | Cytron Technologies S/B | Cytron EDU PICO | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
+| 0x1074 | Cytron Technologies | Cytron EDU PICO | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
 | 0x1075 | ACustomArcade LLC | PicoCTR | https://acustomarcade.com |
 | 0x1076 | Hel-Wacht Holding GmbH | Lift eye-P Mini | https://www.lifteyep.com/ |
 | 0x1077 | Incredivation LLC | IncrediDAQ 100 | Not active yet but will be a sub-page of https://incredivation.com/ |
@@ -156,7 +156,7 @@ Vendor-ID = 0x2E8A
 | 0x107B | Invector Labs AB | Connectivity RP2040 LTE/WIFI/BLE | https://ilabs.se/connectivity-rp2040-lte-wifi-ble-datasheet/ |
 | 0x107C | Hrvoje Cavrak | DeskHop | https://github.com/hrvach/deskhop |
 | 0x107D | Haute ?cole d'ing?nierie et d'architecture | Picomo | https://go.heia-fr.ch/picomo |
-| 0x107E | Cytron Technologies S/B | Cytron EDU PICO for Pico | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
+| 0x107E | Cytron Technologies | Cytron EDU PICO for Pico | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
 | 0x107F | x-pantion | Croco Gameboy Cartridge | https://github.com/shilga/rp2040-gameboy-cartridge-firmware |
 | 0x1081 | Pimoroni Ltd | Inky Frame 7.3" | https://shop.pimoroni.com/products/inky-frame-7-3 |
 | 0x1082 | Lost Cause Photographic, LLC | GPI Controller Mk. 1 | https://lostcause.photo/projects/controlroom/ |
@@ -175,10 +175,10 @@ Vendor-ID = 0x2E8A
 | 0x1090 | Wee Noise Makers | Noise Nugget 2040 |  |
 | 0x1091 | Bridgetek Pte Ltd | IDM2040-43A | https://brtchip.com/product/idm2040-43a/ |
 | 0x1092 | Limit Labs | Glyph | https://www.satisfye.com/products/glyph-base?variant=43804156199074 |
-| 0x1093 | Cytron Technologies S/B | Cytron IRIV IO Controller | https://www.cytron.io/p-iriv-io-controller |
+| 0x1093 | Cytron Technologies | Cytron IRIV IO Controller | https://www.cytron.io/p-iriv-io-controller |
 | 0x1094 | Velocitas Imperium | NOVA Evo | https://velocitasimperium.com/products/nova-evo-project |
 | 0x1095 | Udo Munk |  | https://github.com/udo-munk/RP2040-GEEK-80 |
-| 0x1096 | Cytron Technologies S/B | Cytron MOTION 2350 Pro | https://www.cytron.io/p-motion-2350-pro |
+| 0x1096 | Cytron Technologies | Cytron MOTION 2350 Pro | https://www.cytron.io/p-motion-2350-pro |
 | 0x1098 | Pimoroni Ltd | Picade Max Input | https://shop.pimoroni.com/products/picade-max |
 | 0x1099 | Pimoroni Ltd | Picade Max Audio | https://shop.pimoroni.com/products/picade-max |
 | 0x109D | Velocitas Imperium | VI-LAPTIMER | https://velocitasimperium.com/products/vi-laptimer |
