@@ -42,6 +42,7 @@ Vendor-ID = 0x2E8A
 | 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) |  |
 | 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
 | 0x0010 | Raspberry Pi | |
+| 0x0011 | Raspberry Pi | |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
 | 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
