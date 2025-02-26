@@ -220,5 +220,6 @@ Vendor-ID = 0x2E8A
 | 0x10C4 | Haute ?cole d'ing?nierie et d'architecture | Picomo V3 | go.heia-fr.ch/picomo |
 | 0x10C6 | Hand Held Legend, LLC | Hoja Gamepad | One such example: https://www.kickstarter.com/projects/nicemitch/gc-ultimate-controller-kit
 | 0x10C7 | Wings Systems Monoprosopi EPE | StitchPort | www.wingssystems.com/stitchport |
+| 0x10C8 | KoJackCustoms | JackBoard |  |
 
 But this product ID is meant to be applied to our library as it's presumed that this library can be used by makers and more. We want to ensure that it will be plug/play with any apps that utilize this PID. |
