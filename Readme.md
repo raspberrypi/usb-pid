@@ -42,6 +42,7 @@ Vendor-ID = 0x2E8A
 | 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) |  |
 | 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
 | 0x0010 | Raspberry Pi | |
+| 0x0011 | Raspberry Pi | |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
 | 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
@@ -190,6 +191,7 @@ Vendor-ID = 0x2E8A
 | 0x10A4 | Pimoroni Ltd | Pimoroni Tiny 2350 | https://shop.pimoroni.com/products/tiny-2350 |
 | 0x10A5 | Pimoroni Ltd | Pimoroni Plasma 2350 | https://shop.pimoroni.com/products/plasma-2350 |
 | 0x10A6 | Pimoroni Ltd | Pimoroni PGA2350 | https://shop.pimoroni.com/products/pga2350 |
+| 0x10A8 | icedragon.io | snek board | https://icedragon.io/snek/ |
 | 0x10A9 | COMFILE Technology, Inc. | CFHEADER |  |
 | 0x10AA | KeyForge | Macropad device | https://keyforge.tech/product/macropad-mk-01/ |
 | 0x10AB | Velocitas Imperium | B5-DDU | https://velocitasimperium.com/products/b5-ddu-project |
@@ -216,3 +218,8 @@ Vendor-ID = 0x2E8A
 | 0x10C0 | Pimoroni Ltd | Pimoroni Explorer | https://shop.pimoroni.com/products/explorer |
 | 0x10C1 | Music Thing modular  | Workshop Computer | https://www.musicthing.co.uk/workshopsystem/ |
 | 0x10C2 | CND Engineering | CND Engineering Porsche RSR | - |
+| 0x10C3 | Waveshare Electronics | RP2350-ETH | https://www.waveshare.com/RP2350-ETH.htm |
+| 0x10C4 | Haute ?cole d'ing?nierie et d'architecture | Picomo V3 | go.heia-fr.ch/picomo |
+| 0x10C6 | Hand Held Legend, LLC | Hoja Gamepad | |
+| 0x10C7 | Wings Systems Monoprosopi EPE | StitchPort | www.wingssystems.com/stitchport |
+| 0x10C8 | KoJackCustoms | JackBoard |  |
