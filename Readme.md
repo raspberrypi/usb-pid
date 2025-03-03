@@ -217,6 +217,7 @@ Vendor-ID = 0x2E8A
 | 0x10BF | Pimoroni Ltd | Pimoroni Plasma 2350 W | https://shop.pimoroni.com/products/plasma-2350-w |
 | 0x10C0 | Pimoroni Ltd | Pimoroni Explorer | https://shop.pimoroni.com/products/explorer |
 | 0x10C1 | Music Thing modular  | Workshop Computer | https://www.musicthing.co.uk/workshopsystem/ |
+| 0x10C2 | CND Enginnering | CND Engineering Porsche RSR | - |
 | 0x10C3 | Waveshare Electronics | RP2350-ETH | https://www.waveshare.com/RP2350-ETH.htm |
 | 0x10C4 | Haute ?cole d'ing?nierie et d'architecture | Picomo V3 | go.heia-fr.ch/picomo |
 | 0x10C6 | Hand Held Legend, LLC | Hoja Gamepad | |
