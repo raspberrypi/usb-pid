@@ -224,4 +224,5 @@ Vendor-ID = 0x2E8A
 | 0x10C7 | Wings Systems Monoprosopi EPE | StitchPort | www.wingssystems.com/stitchport |
 | 0x10C8 | KoJackCustoms | JackBoard |  |
 | 0x10CA | MM WORKSHOP | GP2040-CE Combat Unit Board P1 | https://mmwork.shop/boutique/combat-unit-board/ |
+| 0x10C9 | Velocitas Imperium | VI-LMDH | https://velocitasimperium.com/products/vi-lmdh |
 | 0x10CB | MM WORKSHOP | GP2040-CE Combat Unit Board P2 | https://mmwork.shop/boutique/combat-unit-board/ |
