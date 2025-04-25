@@ -229,5 +229,6 @@ Vendor-ID = 0x2E8A
 | 0x10CF | Velocitas Imperium | Equus 296 GTX | https://velocitasimperium.com/products/equus-296-gt3 |
 | 0x10D0 | The Hack Foundation, DBA Hack Club | Orpheus Pico | orpheuspico.hackclub.com |
 | 0x10D2 | Simracing-PC | SPC Button Plate | https://simracing-pc.de/en/2025/03/17/diy-project-super-budget-button-plate-with-leds/ |
+| 0x10D4 | WIZnet Co., Ltd. | W55RP20 | https://wiznet.io/products/ionic-chips/w55rp20 |
 | 0x10D5 | Bastl s.r.o. | Kastle 2 | https://bastl-instruments.com/instruments |
 | 0x10D6 | Marvin Kross ma.kro Software | I4E Flight Sim Interface | no link yet, estimated to be released Q3-2025 to Q1-2026 |
