@@ -232,3 +232,4 @@ Vendor-ID = 0x2E8A
 | 0x10D4 | WIZnet Co., Ltd. | W55RP20 | https://wiznet.io/products/ionic-chips/w55rp20 |
 | 0x10D5 | Bastl s.r.o. | Kastle 2 | https://bastl-instruments.com/instruments |
 | 0x10D6 | Marvin Kross ma.kro Software | I4E Flight Sim Interface | no link yet, estimated to be released Q3-2025 to Q1-2026 |
+| 0x10D7 | Rabbit Hole Computing |  | https://zuluscsi.com |
