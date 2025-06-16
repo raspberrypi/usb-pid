@@ -234,3 +234,4 @@ Vendor-ID = 0x2E8A
 | 0x10D6 | Marvin Kross ma.kro Software | I4E Flight Sim Interface | no link yet, estimated to be released Q3-2025 to Q1-2026 |
 | 0x10D7 | Rabbit Hole Computing |  | https://zuluscsi.com |
 | 0x10D8 | Music Thing Ltd  | Music Thing Radio Music  | https://www.musicthing.co.uk/Radio-Music/ (page will be upgraded when the RP2040 version is launched, replacing this Teensy version)  |
+| 0x10DA | ACustomArcade LLC | AGC2P-Coleco | https://acustomarcade.com |
