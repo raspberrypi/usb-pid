@@ -41,7 +41,7 @@ Vendor-ID = 0x2E8A
 | 0x000D | Raspberry Pi | Raspberry Pi USB3HUB ( USB2 hub part) |  |
 | 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) |  |
 | 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
-| 0x0010 | Raspberry Pi | |
+| 0x0010 | Raspberry Pi | Raspberry Pi 500 QMK keyboard firmware | https://github.com/raspberrypi/QMK |
 | 0x0011 | Raspberry Pi | |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
