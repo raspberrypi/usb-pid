@@ -237,3 +237,4 @@ Vendor-ID = 0x2E8A
 | 0x10D8 | Music Thing Ltd  | Music Thing Radio Music  | https://www.musicthing.co.uk/Radio-Music/ (page will be upgraded when the RP2040 version is launched, replacing this Teensy version)  |
 | 0x10DA | ACustomArcade LLC | AGC2P-Coleco | https://acustomarcade.com |
 | 0x10DB | Velocitas Imperium | P8W-DDU | https://velocitasimperium.com/products/p8w-ddu |
+| 0x10DC | Velocitas Imperium | VI-RSR | https://velocitasimperium.com/products/vi-rsr |
