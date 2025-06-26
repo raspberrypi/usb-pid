@@ -222,7 +222,7 @@ Vendor-ID = 0x2E8A
 | 0x10C2 | CND Enginnering | CND Engineering Porsche RSR | - |
 | 0x10C3 | Waveshare Electronics | RP2350-ETH | https://www.waveshare.com/RP2350-ETH.htm |
 | 0x10C4 | Haute ?cole d'ing?nierie et d'architecture | Picomo V3 | go.heia-fr.ch/picomo |
-| 0x10C6 | Hand Held Legend, LLC | Hoja Gamepad | |
+| 0x10C6 | Hand Held Legend, LLC | Hoja Gamepad | https://github.com/HandHeldLegend/HOJA-LIB-RP2040/ |
 | 0x10C7 | Wings Systems Monoprosopi EPE | StitchPort | www.wingssystems.com/stitchport |
 | 0x10C8 | KoJackCustoms | JackBoard |  |
 | 0x10C9 | Velocitas Imperium | VI-LMDH | https://velocitasimperium.com/products/vi-lmdh |
@@ -239,5 +239,5 @@ Vendor-ID = 0x2E8A
 | 0x10DA | ACustomArcade LLC | AGC2P-Coleco | https://acustomarcade.com |
 | 0x10DB | Velocitas Imperium | P8W-DDU | https://velocitasimperium.com/products/p8w-ddu |
 | 0x10DC | Velocitas Imperium | VI-RSR | https://velocitasimperium.com/products/vi-rsr |
-| 0x10DD | Hand Held Legend | 1. GC Ultimate 2. ProGCC | https://handheldlegend.com/products/gc-ultimate-controller
-https://handheldlegend.com/products/progcc-kit-wireless-wired-bundle |
+| 0x10DD | Hand Held Legend, LLC | ProGCC | https://handheldlegend.com/products/progcc-kit-wireless-wired-bundle |
+| 0x10DE | Hand Held Legend, LLC | GC Ultimate | https://handheldlegend.com/products/gc-ultimate-controller |
