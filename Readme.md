@@ -239,5 +239,4 @@ Vendor-ID = 0x2E8A
 | 0x10DA | ACustomArcade LLC | AGC2P-Coleco | https://acustomarcade.com |
 | 0x10DB | Velocitas Imperium | P8W-DDU | https://velocitasimperium.com/products/p8w-ddu |
 | 0x10DC | Velocitas Imperium | VI-RSR | https://velocitasimperium.com/products/vi-rsr |
-| 0x10DD | Hand Held Legend | 1. GC Ultimate 2. ProGCC | https://handheldlegend.com/products/gc-ultimate-controller
-https://handheldlegend.com/products/progcc-kit-wireless-wired-bundle |
+| 0x10DD | Hand Held Legend | 1. GC Ultimate| https://handheldlegend.com/products/gc-ultimate-controller |
