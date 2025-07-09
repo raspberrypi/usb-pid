@@ -241,3 +241,4 @@ Vendor-ID = 0x2E8A
 | 0x10DC | Velocitas Imperium | VI-RSR | https://velocitasimperium.com/products/vi-rsr |
 | 0x10DD | Hand Held Legend | 1. GC Ultimate| https://handheldlegend.com/products/gc-ultimate-controller |
 | 0x10DF | Hand Held Legend, LLC | ProGCC | https://handheldlegend.com/products/progcc-kit-wireless-wired-bundle |
+| 0x10E0 | ??????????????? | FireBird | https://booth.pm/ja/items/4934916 |
