@@ -242,6 +242,7 @@ Vendor-ID = 0x2E8A
 | 0x10DD | Hand Held Legend | 1. GC Ultimate| https://handheldlegend.com/products/gc-ultimate-controller |
 | 0x10DF | Hand Held Legend, LLC | ProGCC | https://handheldlegend.com/products/progcc-kit-wireless-wired-bundle |
 | 0x10E0 | Bonziri/BZL | FireBird | https://booth.pm/ja/items/4934916 |
+| 0x10E2 | KODAI Racing | KODAI - MF1 | https://kodairacing.com |
 | 0x10E3 | WallyWare, inc. | CROSSplate | https://pi-plates.com/product/crossplate/ |
 | 0x10E5 | AndGAMER Inc. | PS4 FireBird | https://voidgaming.jp/products/ps4firebird |
 | 0x10E6 | Witine Limited | USB HSM | Custom products |
