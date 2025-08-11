@@ -203,14 +203,14 @@ Vendor-ID = 0x2E8A
 | 0x10AD | ZELLMECHANIK DRESDEN GmbH | AcCellerator | https://zellmechanik.com |
 | 0x10AE | Datanoise | PicoADK v2 (RP2350) | https://datanoise.shop/products/picoadk-v2 |
 | 0x10AF | Sting Alleman |  | There's none - this is a small batch of custom made products |
-| 0x10B0 | Waveshare Electronics | RP2350-Zero | No website yet |
-| 0x10B1 | Waveshare Electronics | RP2350-Plus | No website yet |
-| 0x10B2 | Waveshare Electronics | RP2350-Tiny | No website yet |
-| 0x10B3 | Waveshare Electronics | RP2350-LCD-1.28 | No website yet |
-| 0x10B4 | Waveshare Electronics | RP2350-Touch-LCD-1.28 | No website yet |
-| 0x10B5 | Waveshare Electronics | RP2350-One | No website yet |
-| 0x10B6 | Waveshare Electronics | RP2350-GEEK | No website yet |
-| 0x10B7 | Waveshare Electronics | RP2350-LCD-0.96 | No website yet |
+| 0x10B0 | Waveshare Electronics | RP2350-Zero | https://www.waveshare.com/rp2350-pizero.htm |
+| 0x10B1 | Waveshare Electronics | RP2350-Plus | https://www.waveshare.com/rp2350-plus.htm |
+| 0x10B2 | Waveshare Electronics | RP2350-Tiny | https://www.waveshare.com/rp2350-tiny.htm |
+| 0x10B3 | Waveshare Electronics | RP2350-LCD-1.28 | https://www.waveshare.com/rp2350-lcd-1.28.htm |
+| 0x10B4 | Waveshare Electronics | RP2350-Touch-LCD-1.28 | https://www.waveshare.com/rp2350-touch-lcd-1.28.htm |
+| 0x10B5 | Waveshare Electronics | RP2350-One | https://www.waveshare.com/rp2350-one.htm |
+| 0x10B6 | Waveshare Electronics | RP2350-GEEK | https://www.waveshare.com/rp2350-geek.htm |
+| 0x10B7 | Waveshare Electronics | RP2350-LCD-0.96 | https://www.waveshare.com/rp2350-lcd-0.96.htm |
 | 0x10B8 | ALS | PROG-001-3300 | - |
 | 0x10B9 | PicoScratch | PicoScratch MINT | https://www.picoscratch.de/mint |
 | 0x10BA | StratoRise Ltd | SRGS | https://stratorise.com |
