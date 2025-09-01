@@ -249,3 +249,4 @@ Vendor-ID = 0x2E8A
 | 0x10E6 | Witine Limited | USB HSM | Custom products |
 | 0x10E7 | WIZnet Co., Ltd. | W6300-EVB-Pico | https://wiznet.io/products/evaluation-boards/w6300-evb-pico |
 | 0x10E8 | WIZnet Co., Ltd. | W6300-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w6300-evb-pico2 |
+| 0x10EA | H. Diebold GmbH & Co. | Digital Pullforcegauge | https://www.hsk.com/produkte/messtechnik/ |
