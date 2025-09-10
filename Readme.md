@@ -44,6 +44,7 @@ Vendor-ID = 0x2E8A
 | 0x0010 | Raspberry Pi | Raspberry Pi 500 QMK keyboard firmware | https://github.com/raspberrypi/QMK |
 | 0x0011 | Raspberry Pi | |
 | 0x0012 | Raspberry Pi | |
+| 0x0013 | Raspberry Pi | Raspberry Pi USB Ethernet gadget | |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
 | 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
