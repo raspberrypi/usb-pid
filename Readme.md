@@ -252,3 +252,21 @@ Vendor-ID = 0x2E8A
 | 0x10E8 | WIZnet Co., Ltd. | W6300-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w6300-evb-pico2 |
 | 0x10EA | H. Diebold GmbH & Co. | Digital Pullforcegauge | https://www.hsk.com/produkte/messtechnik/ |
 | 0x10EB | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - Terra LX |  |
+| 0x10EC | Waveshare Electronics | RP2040-Touch-LCD-1.69 | https://www.waveshare.net/shop/RP2040-Touch-LCD-1.69.htm |
+| 0x10ED | Waveshare Electronics | RP2040-LCD-0.99-B | https://www.waveshare.net/shop/RP2040-LCD-0.99-B.htm |
+| 0x10EE | Waveshare Electronics | RP2350-LCD-1.47-A | https://www.waveshare.net/shop/RP2350-LCD-1.47-A.htm |
+| 0x10EF | Waveshare Electronics | RP2350-LCD-1.47-B | https://www.waveshare.net/shop/RP2350-LCD-1.47-B.htm |
+| 0x10F0 | Waveshare Electronics | RP2350-Touch-LCD-1.69 | https://www.waveshare.net/shop/RP2350-Touch-LCD-1.69.htm |
+| 0x10F1 | Waveshare Electronics | RP2350-Touch-LCD-2 | https://www.waveshare.net/shop/RP2350-Touch-LCD-2.htm |
+| 0x10F2 | Waveshare Electronics | RP2350-Touch-LCD-2.8 | https://www.waveshare.net/shop/RP2350-Touch-LCD-2.8.htm |
+| 0x10F3 | Waveshare Electronics | RP2350-Touch-LCD-2.8C | https://www.waveshare.net/shop/RP2350-Touch-LCD-2.8C.htm |
+| 0x10F4 | Waveshare Electronics | RP2350-Touch-AMOLED-1.43 | https://www.waveshare.net/shop/RP2350-Touch-AMOLED-1.43.htm |
+| 0x10F5 | Waveshare Electronics | RP2350-Touch-AMOLED-1.64-M | https://www.waveshare.net/shop/RP2350-Touch-AMOLED-1.64-M.htm |
+| 0x10F6 | Waveshare Electronics | RP2350-Touch-AMOLED-1.8 | https://www.waveshare.net/shop/RP2350-Touch-AMOLED-1.8.htm |
+| 0x10F7 | Waveshare Electronics | RP2350-Touch-AMOLED-2.41 | https://www.waveshare.net/shop/RP2350-Touch-AMOLED-2.41.htm |
+| 0x10F8 | Waveshare Electronics | RP2350B-Plus-W | https://www.waveshare.net/shop/RP2350B-Plus-W.htm |
+| 0x10F9 | Waveshare Electronics | RP2350-PiZero | https://www.waveshare.net/shop/RP2350-PiZero.htm |
+| 0x10FA | Waveshare Electronics | RP2350-USB-A | https://www.waveshare.net/shop/RP2350-USB-A.htm |
+| 0x10FB | Waveshare Electronics | Core2350B | https://www.waveshare.net/shop/Core2350B.htm |
+| 0x10FC | Waveshare Electronics | RP2350-Relay-6CH | https://www.waveshare.net/shop/RP2350-Relay-6CH.htm |
+| 0x10FD | Waveshare Electronics | RP2350-Matrix | https://www.waveshare.net/shop/RP2350-Matrix.htm |
