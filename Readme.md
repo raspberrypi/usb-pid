@@ -253,3 +253,4 @@ Vendor-ID = 0x2E8A
 | 0x10E8 | WIZnet Co., Ltd. | W6300-EVB-Pico2 | https://wiznet.io/products/evaluation-boards/w6300-evb-pico2 |
 | 0x10EA | H. Diebold GmbH & Co. | Digital Pullforcegauge | https://www.hsk.com/produkte/messtechnik/ |
 | 0x10EB | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - Terra LX |  |
+| 0x10EC | Soldered Electronics d.o.o. | Soldered NULA Max RP2350 | We are still working on it! It should be https://soldered.com/product/nula-max-rp2350/ |
