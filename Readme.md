@@ -256,3 +256,4 @@ Vendor-ID = 0x2E8A
 | 0x10EC | Soldered Electronics d.o.o. | Soldered NULA Max RP2350 | We are still working on it! It should be https://soldered.com/product/nula-max-rp2350/ |
 | 0x10ED | OGMAVision LLC | OpenOGMA Filter Wheel | https://getogma.com/products/OFW52i |
 | 0x10EE | Amken LLC. | Crea8  |  |
+| 0x10EF | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-7 Display |  |
