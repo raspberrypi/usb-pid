@@ -258,3 +258,4 @@ Vendor-ID = 0x2E8A
 | 0x10ED | OGMAVision LLC | OpenOGMA Filter Wheel | https://getogma.com/products/OFW52i |
 | 0x10EE | Amken LLC. | Crea8  |  |
 | 0x10EF | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-7 Display |  |
+| 0x10F0 | Kage Games Limited | Ant64-ICP | http://ant64.com/icp |
