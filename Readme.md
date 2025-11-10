@@ -259,4 +259,5 @@ Vendor-ID = 0x2E8A
 | 0x10EE | Amken LLC. | Crea8  |  |
 | 0x10EF | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - XR-7 Display |  |
 | 0x10F0 | Kage Games Limited | Ant64-ICP | http://ant64.com/icp |
+| 0x10F1 | Dark Bio AG | Ark I | |
 | 0x10F2 | simplexion GmbH | FADEC | https://continentaldiesel.com/cd-135/ |
