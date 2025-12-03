@@ -263,3 +263,4 @@ Vendor-ID = 0x2E8A
 | 0x10F1 | Dark Bio AG | Ark I | |
 | 0x10F2 | simplexion GmbH | FADEC | https://continentaldiesel.com/cd-135/ |
 | 0x10F4 | Canarin | Canarin Fub | in fabrication yet |
+| 0x10F5 | Kinoshita Laboratory | Kinoshita Lab's products | ONE OF THE EXAMPLE: https://github.com/kinoshita-lab/StemsMIDI |
