@@ -158,7 +158,7 @@ Vendor-ID = 0x2E8A
 | 0x107B | Invector Labs AB | Connectivity RP2040 LTE/WIFI/BLE | https://ilabs.se/connectivity-rp2040-lte-wifi-ble-datasheet/ |
 | 0x107C | Hrvoje Cavrak | DeskHop | https://github.com/hrvach/deskhop |
 | 0x107D | Haute ?cole d'ing?nierie et d'architecture | Picomo | https://go.heia-fr.ch/picomo |
-| 0x107E | Cytron Technologies | Cytron EDU PICO for Pico | https://www.cytron.io/p-edu-project-and-innovation-kit-for-pico-w |
+| 0x107E | Cytron Technologies | Cytron EDU PICO 2 | https://www.cytron.io/p-edu-pico2 |
 | 0x107F | x-pantion | Croco Gameboy Cartridge | https://github.com/shilga/rp2040-gameboy-cartridge-firmware |
 | 0x1080 | PiKVM LTD | PiKVM Switch Multiport Extender | https://pikvm.org/products/#pikvm-switch |
 | 0x1081 | Pimoroni Ltd | Inky Frame 7.3" | https://shop.pimoroni.com/products/inky-frame-7-3 |
