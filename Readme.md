@@ -268,3 +268,4 @@ Vendor-ID = 0x2E8A
 | 0x10F8 | Svalboard LLC | Svalboard Lightly | www.svalboard.com |
 | 0x10FC | Daniel Ritchie | Reachy Mini Eyes | http://brainwavecollective.ai/~reachymini/eyes |
 | 0x10FD | Pico Keys | pico-hsm | https://www.picokeys.com |
+| 0x10FE | Pico Keys | pico-fido | https://www.picokeys.com |
