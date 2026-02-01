@@ -196,7 +196,7 @@ Vendor-ID = 0x2E8A
 | 0x10A5 | Pimoroni Ltd | Pimoroni Plasma 2350 | https://shop.pimoroni.com/products/plasma-2350 |
 | 0x10A6 | Pimoroni Ltd | Pimoroni PGA2350 | https://shop.pimoroni.com/products/pga2350 |
 | 0x10A8 | icedragon.io | snek board | https://icedragon.io/snek/ |
-| 0x10A9 | COMFILE Technology, Inc. | CFHEADER |  |
+| 0x10A9 | COMFILE Technology, Inc. | CFHEADER | https://comfiletech.com/field-i-o/cfheader-cfnet-header-module/ |
 | 0x10AA | KeyForge | Macropad device | https://keyforge.tech/product/macropad-mk-01/ |
 | 0x10AB | Velocitas Imperium | B5-DDU | https://velocitasimperium.com/products/b5-ddu-project |
 | 0x10AC | Velocitas Imperium | B7-DDU | https://velocitasimperium.com/products/b7-ddu-project |
