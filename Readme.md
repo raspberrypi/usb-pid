@@ -271,3 +271,4 @@ Vendor-ID = 0x2E8A
 | 0x10FE | Pico Keys | pico-fido | https://www.picokeys.com |
 | 0x10FF | Pico Keys | pico-openpgp | https://www.picokeys.com |
 | 0x1100 | Pimoroni Ltd | Badger 2350 (Badgeware) | https://shop.pimoroni.com/products/badger-2350 |
+| 0x1101 | Pimoroni Ltd | Tufty 2350 (Badgeware) | https://shop.pimoroni.com/products/tufty-2350 |
