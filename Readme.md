@@ -266,6 +266,7 @@ Vendor-ID = 0x2E8A
 | 0x10F5 | Kinoshita Laboratory | Kinoshita Lab's products | ONE OF THE EXAMPLE: https://github.com/kinoshita-lab/StemsMIDI |
 | 0x10F7 | Flight Deck DIY | G1000 NXi | https://flightdeckdiy.com/products/g1000-nxi-plug-and-play-glass-cockpit-for-msfs-2024?variant=45056364839110 |
 | 0x10F8 | Svalboard LLC | Svalboard Lightly | www.svalboard.com |
+| 0x10F9 | Nominalogic | AM Dongle | |
 | 0x10FC | Daniel Ritchie | Reachy Mini Eyes | http://brainwavecollective.ai/~reachymini/eyes |
 | 0x10FD | Pico Keys | pico-hsm | https://www.picokeys.com |
 | 0x10FE | Pico Keys | pico-fido | https://www.picokeys.com |
