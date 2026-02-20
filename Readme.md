@@ -276,3 +276,4 @@ Vendor-ID = 0x2E8A
 | 0x1104 | Wiens Synefex GmbH | SynConnect SmartCable | synefex.de |
 | 0x1105 | 5z6p Instruments | 5z6p's human interface devices | Example: https://5z6p.com/products/meias/ |
 | 0x1106 | VibeMic | VibeMic | https://vibemic.io |
+| 0x1107 | Texas Instruments | USB-TMC SCPI Interface (RP2040) |  |
