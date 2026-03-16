@@ -284,3 +284,4 @@ Vendor-ID = 0x2E8A
 | 0x1109 | Hayden Hansson | Consofy | https://github.com/features-not-bugs/consofy  (private until first release) |
 | 0x110B | DIOPTIC GmbH | DIOPTIC USB DEVICE | https://www.dioptic.de/ |
 | 0x110C | KODAI Racing | KODAI - AM2 | https://kodairacing.com |
+| 0x110D | Invector Labs AB | Challenger+ RP2350 NB-IoT | https://ilabs.se/product/challenger-rp2350-nb-iot |
