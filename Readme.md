@@ -283,3 +283,4 @@ Vendor-ID = 0x2E8A
 | 0x1108 | Icebound Flame LLC | Rotatrix Trackball | https://rotatrix.com |
 | 0x1109 | Hayden Hansson | Consofy | https://github.com/features-not-bugs/consofy  (private until first release) |
 | 0x110B | DIOPTIC GmbH | DIOPTIC USB DEVICE | https://www.dioptic.de/ |
+| 0x110C | KODAI Racing | KODAI - AM2 | https://kodairacing.com |
