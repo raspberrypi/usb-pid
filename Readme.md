@@ -285,3 +285,4 @@ Vendor-ID = 0x2E8A
 | 0x110B | DIOPTIC GmbH | DIOPTIC USB DEVICE | https://www.dioptic.de/ |
 | 0x110C | KODAI Racing | KODAI - AM2 | https://kodairacing.com |
 | 0x110D | Invector Labs AB | Challenger+ RP2350 NB-IoT | https://ilabs.se/product/challenger-rp2350-nb-iot |
+| 0x110E | Piedoux bv | Translational Joystick | www.icarusgear.com |
