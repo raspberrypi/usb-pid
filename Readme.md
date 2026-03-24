@@ -287,3 +287,4 @@ Vendor-ID = 0x2E8A
 | 0x110D | Invector Labs AB | Challenger+ RP2350 NB-IoT | https://ilabs.se/product/challenger-rp2350-nb-iot |
 | 0x110E | Piedoux bv | Translational Joystick | www.icarusgear.com |
 | 0x110F | DarrenMC | DarrenMC System Infomation Display | No website yet |
+| 0x1110 | Outer Plane Solutions B.V. | Conex audio | t.b.d. |
