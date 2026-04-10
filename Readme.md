@@ -290,3 +290,4 @@ Vendor-ID = 0x2E8A
 | 0x1110 | Outer Plane Solutions B.V. | Conex audio | t.b.d. |
 | 0x1111 | Grayze Dynamics | GD Round DDU Display |  |
 | 0x1113 | Apodemus B.V. | Apodemus BatMic |  |
+| 0x1114 | Apodemus B.V. | Apodemus BatRecorder |  |
