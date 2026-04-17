@@ -291,3 +291,4 @@ Vendor-ID = 0x2E8A
 | 0x1111 | Grayze Dynamics | GD Round DDU Display |  |
 | 0x1113 | Apodemus B.V. | Apodemus BatMic |  |
 | 0x1114 | Apodemus B.V. | Apodemus BatRecorder |  |
+| 0x1115 | Optimized Robotics LLC. | DeltaTrack | https://www.kickstarter.com/projects/deltatrackv1/discrete-mechatronic-delta-track |
