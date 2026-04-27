@@ -231,6 +231,7 @@ Vendor-ID = 0x2E8A
 | 0x10C9 | Velocitas Imperium | VI-LMDH | https://velocitasimperium.com/products/vi-lmdh |
 | 0x10CA | MM WORKSHOP | GP2040-CE Combat Unit Board P1 | https://mmwork.shop/boutique/combat-unit-board/ |
 | 0x10CB | MM WORKSHOP | GP2040-CE Combat Unit Board P2 | https://mmwork.shop/boutique/combat-unit-board/ |
+| 0x10CE | 25keys | ALETH42 | https://25keys.com/aleth42/ |
 | 0x10CF | Velocitas Imperium | Equus 296 GTX | https://velocitasimperium.com/products/equus-296-gt3 |
 | 0x10D0 | The Hack Foundation, DBA Hack Club | Orpheus Pico | orpheuspico.hackclub.com |
 | 0x10D2 | Simracing-PC | SPC Button Plate | https://simracing-pc.de/en/2025/03/17/diy-project-super-budget-button-plate-with-leds/ |
