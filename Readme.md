@@ -295,3 +295,4 @@ Vendor-ID = 0x2E8A
 | 0x1116 | SecuringHardware.com | Xiaomao | https://github.com/tigard-tools/xiaomao |
 | 0x1117 | SecuringHardware.com | OpenTaxus | https://github.com/OpenTaxus/opentaxus |
 | 0x1119 | KODAI Racing | KODAI - GZ | https://kodairacing.com/ |
+| 0x111A | Apodemus B.V. | Apodemus Griff |  |
