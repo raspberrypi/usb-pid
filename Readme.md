@@ -299,3 +299,4 @@ Vendor-ID = 0x2E8A
 | 0x111B | SebiTronik |  | sebitronik.de |
 | 0x111C | magic multi media GmbH | Remote Bridge MiniKey |  |
 | 0x111D | Self | Bat Detector 384 | https://www.pippyg.com |
+| 0x111E | Hubei Quanrong E-Commerce Co., Ltd. |  |  |
