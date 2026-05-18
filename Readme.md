@@ -300,3 +300,4 @@ Vendor-ID = 0x2E8A
 | 0x111C | magic multi media GmbH | Remote Bridge MiniKey |  |
 | 0x111D | Self | Bat Detector 384 | https://www.pippyg.com |
 | 0x111E | Hubei Quanrong E-Commerce Co., Ltd. |  |  |
+| 0x1120 | Sundial Labs | TLM-110 | https://www.sundiallabs.tech/products/tlm-110-light-flicker-meter?variant=44431835496534 |
