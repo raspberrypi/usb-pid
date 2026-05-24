@@ -304,3 +304,4 @@ Vendor-ID = 0x2E8A
 | 0x1120 | Sundial Labs | TLM-110 | https://www.sundiallabs.tech/products/tlm-110-light-flicker-meter?variant=44431835496534 |
 | 0x1121 | KEEB LABORATORY | omni kbd | https://mass-work.github.io/omni_kbd_hp/ |
 | 0x1123 | PCB Cupid | Glyph Mini 2040 | https://shop.pcbcupid.com/product/gdm001 |
+| 0x1124 | VoicAs | DeskPressor | https://voicas.audio/ |
