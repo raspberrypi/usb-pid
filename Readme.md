@@ -307,3 +307,4 @@ Vendor-ID = 0x2E8A
 | 0x1124 | VoicAs | DeskPressor | https://voicas.audio/ |
 | 0x1125 | TEILE Elektronik MIB GmbH | Schwarzonator |  |
 | 0x1126 | Audio System Germany | IQ-Series | still in development, will be published later this year |
+| 0x1127 | Ocean Dreams Instruments | 2Step | https://oceandreaming.com/modules/2step |
