@@ -306,3 +306,4 @@ Vendor-ID = 0x2E8A
 | 0x1123 | PCB Cupid | Glyph Mini 2040 | https://shop.pcbcupid.com/product/gdm001 |
 | 0x1124 | VoicAs | DeskPressor | https://voicas.audio/ |
 | 0x1125 | TEILE Elektronik MIB GmbH | Schwarzonator |  |
+| 0x1126 | Audio System Germany | IQ-Series | still in development, will be published later this year |
