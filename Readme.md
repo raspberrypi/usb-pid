@@ -310,3 +310,4 @@ Vendor-ID = 0x2E8A
 | 0x1127 | Ocean Dreams Instruments | 2Step | https://oceandreaming.com/modules/2step |
 | 0x1128 | PCBCupid | Glyph 2040 | https://shop.pcbcupid.com/ |
 | 0x112A | McNetic GmbH & Co. KG | Alpha | mcnetix.de |
+| 0x112B | Flake & Blade Robotics Design Inc. | ProtoV MINI | https://protov.app |
