@@ -309,3 +309,4 @@ Vendor-ID = 0x2E8A
 | 0x1126 | Audio System Germany | IQ-Series | still in development, will be published later this year |
 | 0x1127 | Ocean Dreams Instruments | 2Step | https://oceandreaming.com/modules/2step |
 | 0x1128 | PCBCupid | Glyph 2040 | https://shop.pcbcupid.com/ |
+| 0x112A | McNetic GmbH & Co. KG | Alpha | mcnetix.de |
