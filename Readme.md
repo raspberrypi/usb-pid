@@ -313,3 +313,4 @@ Vendor-ID = 0x2E8A
 | 0x112B | Flake & Blade Robotics Design Inc. | ProtoV MINI | https://protov.app |
 | 0x112C | ZebbeBa | Crafted Unique Simracing Products |  |
 | 0x112D | medion GmbH | Iconic Arcade | https://www.iconicarcade.com |
+| 0x112F | Cytron Technologies | MDDRC5 | Will send through email later |
