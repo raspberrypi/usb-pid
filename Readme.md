@@ -315,3 +315,4 @@ Vendor-ID = 0x2E8A
 | 0x112D | medion GmbH | Iconic Arcade | https://www.iconicarcade.com |
 | 0x112F | Cytron Technologies | MDDRC5 | Will send through email later |
 | 0x1130 | Certificate Services LLC | Marquee SAS Interface |  |
+| 0x1131 | Certificate Services LLC | Marquee Cabinet Board |  |
