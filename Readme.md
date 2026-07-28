@@ -318,3 +318,4 @@ Vendor-ID = 0x2E8A
 | 0x1131 | Certificate Services LLC | Marquee Cabinet Board |  |
 | 0x1132 | Household Labs LLC | Household Range | https://householdrange.com/ |
 | 0x1133 | Yuki Sato (individual developer) | OctGear |  https://studio-juh.github.io/octgear/ |
+| 0x1134 | COMFILE Technology | CUBLOC2 | TBD |
