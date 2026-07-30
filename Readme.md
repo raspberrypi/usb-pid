@@ -136,7 +136,7 @@ Vendor-ID = 0x2E8A
 | 0x105E | Breadstick Innovations | Raspberry Breadstick | https://github.com/mrangen/RP2040-Breadstick |
 | 0x105F | Invector Labs AB | Challenger RP2040 WiFi6/BLE | https://ilabs.se/challenger-rp2040-wifi6-ble-datasheet/ |
 | 0x1060 | splitkb.com | Liatris | https://splitkb.com/products/liatris |
-| 0x1061 | Robins Tools | Pixel Pump | https://github.com/robin7331/pixel-pump-firmware |
+| 0x1061 | Robins Tools | Pixel Pump | https://robins-tools.com |
 | 0x1063 | Pajenicko s.r.o. | Picopad / Picopad Wifi | picopad.eu |
 | 0x1064 | Union Dynamic | Jackal | https://jtagjackal.io |
 | 0x1065 | WallyWare, inc | MICROpi |  |
