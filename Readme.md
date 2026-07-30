@@ -322,3 +322,4 @@ Vendor-ID = 0x2E8A
 | 0x1135 | Yawn Labs UG | doppio | wwwn.yawn-labs.com |
 | 0x1137 | Robins Tools | Pixel Pump 2 |  |
 | 0x1138 | Orange Music Electronic Co Ltd | ODAC-1 | TBD - Update when released |
+| 0x1139 | IKALOGIC | AT1000 | https://ikalogic.com/test-sequencers/at1000/intro/ |
