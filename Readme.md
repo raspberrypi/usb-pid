@@ -328,3 +328,4 @@ Vendor-ID = 0x2E8A
 | 0x113A | Kelo Guo (individual developer) |  magicKey63 | https://github.com/keloGuo/magicKey63FW |
 | 0x113B | AB-Tools GmbH | KeyNub USB-C License Dongle | https://www.keynub.com |
 | 0x113C | InteliWEAR LLC | SidePulse | https://sidepulse.io |
+| 0x113D | Bastl s.r.o. | Neo Trinity 1999 MIDI Expander | https://bastl-instruments.com/instruments |
