@@ -329,3 +329,4 @@ Vendor-ID = 0x2E8A
 | 0x113B | AB-Tools GmbH | KeyNub USB-C License Dongle | https://www.keynub.com |
 | 0x113C | InteliWEAR LLC | SidePulse | https://sidepulse.io |
 | 0x113D | Bastl s.r.o. | Neo Trinity 1999 MIDI Expander | https://bastl-instruments.com/instruments |
+| 0x113F | Solu??es e Instrumenta??es Avan?adas | TupanexOne | https://www.gaugit.com.br/rid.html |
