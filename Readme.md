@@ -31,21 +31,21 @@ Vendor-ID = 0x2E8A
 | Product ID | Company | Product Description | Product link |
 | --- | --- | --- | --- |
 | **Internal** | | | |
-| 0x0003 | Raspberry Pi | Raspberry Pi RP2040 boot | [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
+| 0x0003 | Raspberry Pi | Raspberry Pi RP2040 boot | [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/microcontroller-chips.html#rp2040) |
 | 0x0004 | Raspberry Pi | Raspberry Pi PicoProbe | Obsolete, see Debug Probe |
-| 0x0005 | Raspberry Pi | Raspberry Pi Pico MicroPython firmware (CDC) | [MicroPython Firmware](https://micropython.org/download/rp2-pico/) |
+| 0x0005 | Raspberry Pi | Raspberry Pi Pico MicroPython firmware (CDC) | [MicroPython Firmware](https://micropython.org/download/?vendor=Raspberry%20Pi) |
 | 0x0009 | Raspberry Pi | Raspberry Pi Pico SDK CDC UART | [Raspberry Pi Pico SDK](https://www.raspberrypi.com/documentation/pico-sdk/) |
 | 0x000A | Raspberry Pi | Raspberry Pi Pico SDK CDC UART (RP2040) | [Raspberry Pi Pico SDK](https://www.raspberrypi.com/documentation/pico-sdk/) |
-| 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/board/raspberry_pi_pico/) |
+| 0x000B | Raspberry Pi | Raspberry Pi Pico CircuitPython firmware | [CircuitPython Downloads](https://circuitpython.org/downloads?q=Raspberry+Pi+Pico) |
 | 0x000C | Raspberry Pi | Raspberry Pi Debug Probe | [Debug Probe](https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html) |
-| 0x000D | Raspberry Pi | Raspberry Pi USB3HUB ( USB2 hub part) |  |
-| 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) |  |
-| 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |
+| 0x000D | Raspberry Pi | Raspberry Pi USB3HUB ( USB2 hub part) | [USB 3 Hub](https://www.raspberrypi.com/documentation/accessories/usb.html#hub) |
+| 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) | [USB 3 Hub](https://www.raspberrypi.com/documentation/accessories/usb.html#hub) |
+| 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/microcontroller-chips.html#rp2350) |
 | 0x0010 | Raspberry Pi | Raspberry Pi 500 QMK keyboard firmware | https://github.com/raspberrypi/QMK |
-| 0x0011 | Raspberry Pi | |
-| 0x0012 | Raspberry Pi | |
+| 0x0011 | Raspberry Pi | Raspberry Pi 500+ QMK keyboard firmware | https://github.com/raspberrypi/QMK |
+| 0x0012 | Raspberry Pi | | |
 | 0x0013 | Raspberry Pi | Raspberry Pi USB Ethernet gadget | |
-| 0x0030 | Raspberry Pi | Raspberry Pi USB 3.0 Flash Drive | |
+| 0x0030 | Raspberry Pi | Raspberry Pi USB 3.0 Flash Drive | [Flash Drive](https://www.raspberrypi.com/documentation/accessories/usb.html#flashdrive) |
 | **Commercial** ||||
 | **0x1000 - 0x1fff** ||||
 | 0x1000 | Cytron Technologies | Cytron Maker Pi RP2040 | https://www.cytron.io/p-maker-pi-rp2040 |
