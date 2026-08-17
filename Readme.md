@@ -293,6 +293,7 @@ Vendor-ID = 0x2E8A
 | 0x110F | DarrenMC | DarrenMC System Infomation Display | No website yet |
 | 0x1110 | Outer Plane Solutions B.V. | Conex audio | t.b.d. |
 | 0x1111 | Grayze Dynamics | GD Round DDU Display |  |
+| 0x1112 | M2D2 Ltd | Midulate Mini | https://m2d2.co.uk/products/midulate-mini |
 | 0x1113 | Apodemus B.V. | Apodemus BatMic |  |
 | 0x1114 | Apodemus B.V. | Apodemus BatRecorder |  |
 | 0x1115 | Optimized Robotics LLC. | DeltaTrack | https://www.kickstarter.com/projects/deltatrackv1/discrete-mechatronic-delta-track |
