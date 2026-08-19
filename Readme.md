@@ -41,8 +41,8 @@ Vendor-ID = 0x2E8A
 | 0x000D | Raspberry Pi | Raspberry Pi USB3HUB ( USB2 hub part) | [USB 3 Hub](https://www.raspberrypi.com/documentation/accessories/usb.html#hub) |
 | 0x000E | Raspberry Pi | Raspberry Pi USB3HUB ( USB3 hub part) | [USB 3 Hub](https://www.raspberrypi.com/documentation/accessories/usb.html#hub) |
 | 0x000F | Raspberry Pi | Raspberry Pi RP2350 boot | [RP2350](https://www.raspberrypi.com/documentation/microcontrollers/microcontroller-chips.html#rp2350) |
-| 0x0010 | Raspberry Pi | Raspberry Pi 500 QMK keyboard firmware | https://github.com/raspberrypi/QMK |
-| 0x0011 | Raspberry Pi | Raspberry Pi 500+ QMK keyboard firmware | https://github.com/raspberrypi/QMK |
+| 0x0010 | Raspberry Pi | Raspberry Pi 500 QMK keyboard firmware | https://github.com/raspberrypi/vial-qmk |
+| 0x0011 | Raspberry Pi | Raspberry Pi 500+ QMK keyboard firmware | https://github.com/raspberrypi/vial-qmk |
 | 0x0012 | Raspberry Pi | | |
 | 0x0013 | Raspberry Pi | Raspberry Pi USB Ethernet gadget | |
 | 0x0030 | Raspberry Pi | Raspberry Pi USB 3.0 Flash Drive | [Flash Drive](https://www.raspberrypi.com/documentation/accessories/usb.html#flashdrive) |
