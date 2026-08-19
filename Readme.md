@@ -316,7 +316,7 @@ Vendor-ID = 0x2E8A
 | 0x112B | Flake & Blade Robotics Design Inc. | ProtoV MINI | https://protov.app |
 | 0x112C | ZebbeBa | Crafted Unique Simracing Products |  |
 | 0x112D | medion GmbH | Iconic Arcade | https://www.iconicarcade.com |
-| 0x112F | Cytron Technologies | MDDRC5 | Will send through email later |
+| 0x112F | Cytron Technologies | Maker Sumo RP2350 Controller | Will send through email later |
 | 0x1130 | Certificate Services LLC | Marquee SAS Interface |  |
 | 0x1131 | Certificate Services LLC | Marquee Cabinet Board |  |
 | 0x1132 | Household Labs LLC | Household Range | https://householdrange.com/ |
