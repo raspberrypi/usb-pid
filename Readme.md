@@ -334,3 +334,4 @@ Vendor-ID = 0x2E8A
 | 0x113F | Solu??es e Instrumenta??es Avan?adas | TupanexOne | https://www.gaugit.com.br/rid.html |
 | 0x1141 | Fortresspay Technology Ltd | Oculex Lock Controller | www.fortresspaytech.com |
 | 0x1145 | Intech Studio kft | Grid | https://intech.studio/us/products/grid |
+| 0x1146 | WallyWare, inc. | ETHERplate | https://wp.me/P79mRF-3jk |
