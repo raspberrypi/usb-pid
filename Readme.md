@@ -336,3 +336,4 @@ Vendor-ID = 0x2E8A
 | 0x1145 | Intech Studio kft | Grid | https://intech.studio/us/products/grid |
 | 0x1146 | WallyWare, inc. | ETHERplate | https://wp.me/P79mRF-3jk |
 | 0x1147 | ColdStart Cockpits | Flight Sim Panel | https://coldstartcockpits.com/ <-- webiste, im currently developing the product and doing testing, i want to actually test the implementation before i ship products therefore no products are currently live |
+| 0x1148 | Fade Audio LLC | FADE | www.fade.audio |
