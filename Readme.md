@@ -333,5 +333,5 @@ Vendor-ID = 0x2E8A
 | 0x113D | Bastl s.r.o. | Neo Trinity 1999 MIDI Expander | https://bastl-instruments.com/instruments |
 | 0x113F | Solu??es e Instrumenta??es Avan?adas | TupanexOne | https://www.gaugit.com.br/rid.html |
 | 0x1141 | Fortresspay Technology Ltd | Oculex Lock Controller | www.fortresspaytech.com |
-| 0x1144 | TKSLOTTY | RP2040 PC Fan & ARGB Controller |https://tkslotty.github.io/TKSLOTTY-WaterCoolingDevice/|
+| 0x1144 | TKSLOTTY | RP2040 PC Fan & ARGB Controller | https://tkslotty.github.io/TKSLOTTY-WaterCoolingDevice/ |
 | 0x1145 | Intech Studio kft | Grid | https://intech.studio/us/products/grid |
