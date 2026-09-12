@@ -339,7 +339,6 @@ Vendor-ID = 0x2E8A
 | 0x1147 | ColdStart Cockpits | Flight Sim Panel | https://coldstartcockpits.com/ <-- webiste, im currently developing the product and doing testing, i want to actually test the implementation before i ship products therefore no products are currently live |
 | 0x1148 | Fade Audio LLC | FADE | www.fade.audio |
 | 0x1149 | CardToolz | Q_ACK | [NFC/ISO7816 SmartCard emulation and tracing research tool](https://github.com/CardToolz) |
-
 | 0x114A | MASAO??? | MASAO LAB Truck Wheel Controller | https://www.youtube.com/@masao0015 |
 | 0x114B | AB-Tools GmbH | KeyNub USB-C HSM | https://www.keynub.com/hsm/ |
 | 0x114D | CB Developments Limited (T/A Opito) | Mini Sign |  |
