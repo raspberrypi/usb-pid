@@ -342,3 +342,4 @@ Vendor-ID = 0x2E8A
 | 0x114A | MASAO??? | MASAO LAB Truck Wheel Controller | https://www.youtube.com/@masao0015 |
 | 0x114B | AB-Tools GmbH | KeyNub USB-C HSM | https://www.keynub.com/hsm/ |
 | 0x114D | CB Developments Limited (T/A Opito) | Mini Sign |  |
+| 0x114E | RaceLYNQ | WheelBridge Racing Adapter | https://racelynq.com |
