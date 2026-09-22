@@ -346,3 +346,4 @@ Vendor-ID = 0x2E8A
 | 0x1150 | Vibz-it | Vibz Wristband | https://vibz.show/ |
 | 0x1151 | FORCE EFFECT LIMITED | Rao | Www.forceeffect.co.uk/products/rao |
 | 0x1152 | WallyWare, inc. | BRIDGEplate2 | https://pi-plates.com/bridgeplate |
+| 0x1155 | Velocitas Imperium | VI-LMP2 | https://velocitasimperium.com |
