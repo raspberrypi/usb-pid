@@ -347,3 +347,4 @@ Vendor-ID = 0x2E8A
 | 0x1151 | FORCE EFFECT LIMITED | Rao | Www.forceeffect.co.uk/products/rao |
 | 0x1152 | WallyWare, inc. | BRIDGEplate2 | https://pi-plates.com/bridgeplate |
 | 0x1155 | Velocitas Imperium | VI-LMP2 | https://velocitasimperium.com |
+| 0x1154 | GETAIL DESIGN S.R.L.S. | G3 |  |
