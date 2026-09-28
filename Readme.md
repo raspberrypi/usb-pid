@@ -350,3 +350,5 @@ Vendor-ID = 0x2E8A
 | 0x1155 | Velocitas Imperium | VI-LMP2 | https://velocitasimperium.com |
 | 0x1154 | GETAIL DESIGN S.R.L.S. | G3 |  |
 | 0x1157 | Charles Breedlove | Night Owl m1 |  |
+| 0x1158 | WallyWare, inc. | MODplate | https://wp.me/P79mRF-3jC
+ |
