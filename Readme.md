@@ -351,4 +351,5 @@ Vendor-ID = 0x2E8A
 | 0x1154 | GETAIL DESIGN S.R.L.S. | G3 |  |
 | 0x1157 | Charles Breedlove | Night Owl m1 |  |
 | 0x1158 | WallyWare, inc. | MODplate | https://wp.me/P79mRF-3jC
+| 0x115C | Forward Education Inc. | Breakout Board V3 | https://forwardedu.com/breakoutboardv3 |
  |
