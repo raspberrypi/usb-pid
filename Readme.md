@@ -354,4 +354,5 @@ Vendor-ID = 0x2E8A
 | 0x115C | Forward Education Inc. | Breakout Board V3 | https://forwardedu.com/breakoutboardv3 |
 | 0x115B | JG3PUP | Si473x Radio Ver6 | https://github.com/jg3pup/Si473xRadio_Ver6 |
 | 0x115D | zxkmm | Pinquisitor | https://pinquisitor.zxkmm.com |
+| 0x115F | Strive Project | Equinox | https://moonyard.dev |
  |
