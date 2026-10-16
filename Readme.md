@@ -356,4 +356,5 @@ Vendor-ID = 0x2E8A
 | 0x115D | zxkmm | Pinquisitor | https://pinquisitor.zxkmm.com |
 | 0x115F | Strive Project | Equinox | https://moonyard.dev |
 | 0x1160 | Elehobica | S/PDIF USB Capture | https://www.tindie.com/products/elehobica/spdif-usb-capture-hi-res-96-khz24-bit-toslink/ |
+| 0x1163 | Gimson Robotics Ltd | GR-SYNC2 | https://gimsonrobotics.co.uk/gr-sync2 |
  |
