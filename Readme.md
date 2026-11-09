@@ -365,4 +365,5 @@ Vendor-ID = 0x2E8A
 | 0x116D | NGrav Beschriftungssysteme GmbH | ngrav engraving system | https://ngrav.eu/de/produkte/ |
 | 0x1170 | monode-sign | QUADRA | https://monode-sign.com/quadra |
 | 0x1172 | wonkystuff ltd. | fluxMEMORY | https://wonkystuff.co.uk/fluxmemory-h.html and https://wonkystuff.co.uk/fluxmemory.html |
+| 0x1175 | AlphaElements Inc. | Pochi-DIO |  |
  |
