@@ -359,4 +359,5 @@ Vendor-ID = 0x2E8A
 | 0x1163 | Gimson Robotics Ltd | GR-SYNC2 | https://gimsonrobotics.co.uk/gr-sync2 |
 | 0x1164 | Scout Recorder | Scout R1 | https://scoutrecorder.com/ |
 | 0x1166 | Horesh Studios LLC | OpenSkyhawk Gateway | https://openskyhawk.github.io/OpenSkyhawk/hardware/base-boards/ |
+| 0x1167 | Cryptic Squid Two Ltd | Strata | https://fenlandpedals.com |
  |
