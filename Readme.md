@@ -363,4 +363,5 @@ Vendor-ID = 0x2E8A
 | 0x116B | djwinter |  | https://github.com/djwinter29-oss/PicoUart |
 | 0x116C | djwinter | PicoPWM | https://github.com/djwinter29-oss/PicoPWM |
 | 0x116D | NGrav Beschriftungssysteme GmbH | ngrav engraving system | https://ngrav.eu/de/produkte/ |
+| 0x1170 | monode-sign | QUADRA | https://monode-sign.com/quadra |
  |
