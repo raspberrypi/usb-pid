@@ -362,4 +362,5 @@ Vendor-ID = 0x2E8A
 | 0x1167 | Cryptic Squid Two Ltd | Strata | https://fenlandpedals.com |
 | 0x116B | djwinter |  | https://github.com/djwinter29-oss/PicoUart |
 | 0x116C | djwinter | PicoPWM | https://github.com/djwinter29-oss/PicoPWM |
+| 0x116D | NGrav Beschriftungssysteme GmbH | ngrav engraving system | https://ngrav.eu/de/produkte/ |
  |
