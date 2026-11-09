@@ -366,5 +366,5 @@ Vendor-ID = 0x2E8A
 | 0x1170 | monode-sign | QUADRA | https://monode-sign.com/quadra |
 | 0x1172 | wonkystuff ltd. | fluxMEMORY | https://wonkystuff.co.uk/fluxmemory-h.html and https://wonkystuff.co.uk/fluxmemory.html |
 | 0x1175 | AlphaElements Inc. | Pochi-DIO |  |
-| 0x1178 | Riley Borum dba 3D Printed Controller Systems | 3DPCS Controller | https://threepieces.net/ |
+| 0x1178 | 3D Printed Controller Systems | 3DPCS Controller | https://threepieces.net/ |
  |
