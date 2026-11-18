@@ -370,4 +370,5 @@ Vendor-ID = 0x2E8A
 | 0x1181 | Opito | Multiprotocol Adapter |  |
 | 0x117A | TR Fight Stick LLC | Kraken Arcade Spinner | https://www.trfightstick.com/store/kraken-arcade |
 | 0x117B | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - ARCHE Control Module |  |
+| 0x117C | THD-Labs | Tangerine Automation Interface | https://thd-labs.ca/shop/products/tangerine-automation-interface-for-ssl-e-g |
  |
