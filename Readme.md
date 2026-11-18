@@ -372,4 +372,5 @@ Vendor-ID = 0x2E8A
 | 0x117B | SOELPEC TEKNOLOJI LTD. STI. | SOELPEC - ARCHE Control Module |  |
 | 0x117C | THD-Labs | Tangerine Automation Interface | https://thd-labs.ca/shop/products/tangerine-automation-interface-for-ssl-e-g |
 | 0x117D | THD-Labs | METERZ | https://thd-labs.ca/shop/products/tangerine-automation-interface-for-ssl-e-g#/products/tangerine-meterz-for-ssl |
+| 0x117E | DILETTA | Control Board |  |
  |
