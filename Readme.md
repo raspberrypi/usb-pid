@@ -375,4 +375,5 @@ Vendor-ID = 0x2E8A
 | 0x1180 | DMX Pro Sales, LLC | DMX Core Pico 2 | https://dmxcore.com/pico |
 | 0x1181 | Opito | Multiprotocol Adapter |  |
 | 0x1184 | Microelectronica | KB Buzz Adapter |  |
+| 0x1185 | Vector 3D Ltd | AD5 | https://vector3d.shop |
  |
