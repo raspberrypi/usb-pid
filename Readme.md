@@ -379,4 +379,5 @@ Vendor-ID = 0x2E8A
 | 0x1186 | COMFILE Technology, Inc. | SADARI |  |
 | 0x1187 | Codeminders Limited | tinyTiming Go | https://tinytiming.com |
 | 0x1188 | Codeminders Limited | tinyLoop USB | https://tinytiming.com |
+| 0x1189 | UNIT ELECTRONICS SERVICES MX S.A. DE C.V. | UNIT Pulsar RP2350A Sense | https://uelectronics.com/producto/pulsar-rp2350a-sense-imu-microfono-unit-devlab/ |
  |
